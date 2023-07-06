@@ -1,0 +1,70 @@
+.DS_Store
+.thumbs.db
+node_modules
+
+# Quasar core related directories
+.quasar
+/dist
+
+# Cordova related directories and files
+/src-cordova/node_modules
+/src-cordova/platforms
+/src-cordova/plugins
+/src-cordova/www
+
+# Capacitor related directories and files
+/src-capacitor/www
+/src-capacitor/node_modules
+
+# BEX related directories and files
+/src-bex/www
+/src-bex/js/core
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# attachment - static folder and file ignore
+static/attachment/
+static/kpi
+static/notes
+temp.*
+kpitemp.*
+
+# python backend bin
+bin/
+
+# HM html ignore
+monitoringSystem/static/
+/monitoringSystem/static/
+
+# report docx
+bpEmail/staticLocal/
+
+# log
+gunicorn.access.log
+gunicorn.error.log
+gunicorn.access_socket.log
+gunicorn.error_socket.log
+
+# Tmp file
+noteAttachmentTemp.docx
+noteAttachmentTemp.jpg
+noteAttachmentTemp.pdf
+noteAttachmentTemp.png
+noteAttachmentTemp.pptx
+noteAttachmentTemp.txt
+noteAttachmentTemp.xlsx
+noteAttachmentTemp.zip
+
+lib/*
+
+.static/

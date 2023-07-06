@@ -1,0 +1,2114 @@
+START - YTS92031758 - No Downtime Request for Production Deployment (AgileDeal) 28-April-2022 (Thursday) 
+[OK] Create YTS92031758 to JSM 
+[Success] Update YTS92031758 option to JSM 
+[Success] YTS92031758 - change to In Progress 
+[Success] YTS92031758 - change to Complete Request 
+[Success] YTS92031758 - change to Close Ticket 
+END - YTS92031758 
+START - YTS92031757 - No Downtime Request for Production Deployment (AgileSlots) 28-April-2022 (Thursday) 
+[OK] Create YTS92031757 to JSM 
+[Success] Update YTS92031757 option to JSM 
+[Success] YTS92031757 - change to In Progress 
+[Success] YTS92031757 - change to Complete Request 
+[Success] YTS92031757 - change to Close Ticket 
+END - YTS92031757 
+START - YTS92031756 - No Downtime Request for Production Deployment (188Asia) 26-April-2022 (Tuesday) 
+[OK] Create YTS92031756 to JSM 
+[Success] Update YTS92031756 option to JSM 
+[Success] YTS92031756 - change to In Progress 
+[Success] YTS92031756 - change to Complete Request 
+[Success] YTS92031756 - change to Close Ticket 
+END - YTS92031756 
+START - YTS92031741 - Downtime Production System Maintenance (Infra for SBK) - 26th  April 2022 (Tuesday) 
+[OK] Create YTS92031741 to JSM 
+[Success] Update YTS92031741 option to JSM 
+[Success] YTS92031741 - change to In Progress 
+[Success] YTS92031741 - change to Complete Request 
+[Success] YTS92031741 - change to Close Ticket 
+END - YTS92031741 
+START - YTS92031736 - No Downtime Request for Production Deployment (NBG) 26-April-2022 (Tuesday) 
+[OK] Create YTS92031736 to JSM 
+[Success] Update YTS92031736 option to JSM 
+[Success] YTS92031736 - change to In Progress 
+[Success] YTS92031736 - change to Complete Request 
+[Success] YTS92031736 - change to Close Ticket 
+END - YTS92031736 
+START - YTS92031766 - [UAT]UWGR188, UWGR1~4 long query stuck tables analyze 
+[OK] Create YTS92031766 to JSM 
+[Success] Update YTS92031766 option to JSM 
+[Success] YTS92031766 - change to In Progress 
+[Success] YTS92031766 - change to Complete Request 
+[Success] YTS92031766 - change to Close Ticket 
+END - YTS92031766 
+START - YTS92031768 - [URGENT - UAT] (188Asia)[RLUU-2369][UAT][188A][Group tickets] - 04/26/22 (Tue) 
+[OK] Create YTS92031768 to JSM 
+[Success] Update YTS92031768 option to JSM 
+[Success] YTS92031768 - change to In Progress 
+[Success] YTS92031768 - change to Complete Request 
+[Success] YTS92031768 - change to Close Ticket 
+END - YTS92031768 
+START - YTS92031767 - [URGENT - UAT] (188Asia)[RLUU-2369][UAT][188A][Group tickets] - 04/26/22 (Tue) 
+[OK] Create YTS92031767 to JSM 
+[Success] Update YTS92031767 option to JSM 
+[Success] YTS92031767 - change to In Progress 
+[Success] YTS92031767 - change to Complete Request 
+[Success] YTS92031767 - change to Close Ticket 
+END - YTS92031767 
+START - YTS92031769 - No Downtime Request for UAT Deployment (AgileDeal) 27-April-2022 (Wednesday) 
+[OK] Create YTS92031769 to JSM 
+[Success] Update YTS92031769 option to JSM 
+[Success] YTS92031769 - change to In Progress 
+[Success] YTS92031769 - change to Complete Request 
+[Success] YTS92031769 - change to Close Ticket 
+END - YTS92031769 
+START - YTS92031772 - [Hotfix][RTX] Migration P115(英皇) Odds&Incentive Company Template To 樂多網(P168) 
+[OK] Create YTS92031772 to JSM 
+[Success] Update YTS92031772 option to JSM 
+[Success] YTS92031772 - change to In Progress 
+[Success] YTS92031772 - change to Complete Request 
+[Success] YTS92031772 - change to Close Ticket 
+END - YTS92031772 
+START - YTS92031773 - No Downtime Request for Production Deployment (188Asia) 27-April-2022 (Wednesday) 
+[OK] Create YTS92031773 to JSM 
+[Success] Update YTS92031773 option to JSM 
+[Success] YTS92031773 - change to In Progress 
+[Success] YTS92031773 - change to Complete Request 
+[Success] YTS92031773 - change to Close Ticket 
+END - YTS92031773 
+START - YTS92031774 - No Downtime Request for Production Deployment (SBK) 27-April-2022 (Wednesday) 
+[OK] Create YTS92031774 to JSM 
+[Success] Update YTS92031774 option to JSM 
+[Success] YTS92031774 - change to In Progress 
+[Success] YTS92031774 - change to Complete Request 
+[Success] YTS92031774 - change to Close Ticket 
+END - YTS92031774 
+START - YTS92031787 - Fw: No Downtime Request for Production Deployment (188Asia) 28-April-2022 (Thursday) 
+[OK] Create YTS92031787 to JSM 
+[Success] Update YTS92031787 option to JSM 
+[Success] YTS92031787 - change to In Progress 
+[Success] YTS92031787 - change to Complete Request 
+[Success] YTS92031787 - change to Close Ticket 
+END - YTS92031787 
+START - YTS92031790 - Downtime Request for UAT Deployment (188Asia) 28-April-2022 (Thursday) 
+[OK] Create YTS92031790 to JSM 
+[Success] Update YTS92031790 option to JSM 
+[Success] YTS92031790 - change to In Progress 
+[Success] YTS92031790 - change to Complete Request 
+[Success] YTS92031790 - change to Close Ticket 
+END - YTS92031790 
+START - YTS92031413 - Change canerport config 
+[OK] Create YTS92031413 to JSM 
+[Success] Update YTS92031413 option to JSM 
+[Success] YTS92031413 - change to In Progress 
+[Success] YTS92031413 - change to Complete Request 
+[Success] YTS92031413 - change to Close Ticket 
+END - YTS92031413 
+START - YTS92031792 - [UAT Patch][RLUU-2373][UTIM-10933][CSB-458] No selection in more filters in State Ignore and Follow Up if there is no Data in State - Open 
+[OK] Create YTS92031792 to JSM 
+[Success] Update YTS92031792 option to JSM 
+[Success] YTS92031792 - change to In Progress 
+[Success] YTS92031792 - change to Complete Request 
+[Success] YTS92031792 - change to Close Ticket 
+END - YTS92031792 
+START - YTS92031798 - [URGENT - UAT and PROD] (188Asia)[RLPU-3630][Urgent Request][188A]Affiliate Association/Disassociation - 04/28/22 (Thu) 
+[OK] Create YTS92031798 to JSM 
+[Success] Update YTS92031798 option to JSM 
+[Success] YTS92031798 - change to In Progress 
+[Success] YTS92031798 - change to Complete Request 
+[Success] YTS92031798 - change to Close Ticket 
+END - YTS92031798 
+START - YTS92031801 - [URGENT - UAT] (188Asia)[RLUU-2375][UAT][188A][Group tickets] - 04/28/22 (Thu) 
+[OK] Create YTS92031801 to JSM 
+[Success] Update YTS92031801 option to JSM 
+[Success] YTS92031801 - change to In Progress 
+[Success] YTS92031801 - change to Complete Request 
+[Success] YTS92031801 - change to Close Ticket 
+END - YTS92031801 
+START - YTS92031803 - No Downtime Request for UAT 2 Deployment (AgileDeal) 03-May-2022 (Tuesday) 
+[OK] Create YTS92031803 to JSM 
+[Success] Update YTS92031803 option to JSM 
+[Success] YTS92031803 - change to In Progress 
+[Success] YTS92031803 - change to Complete Request 
+[Success] YTS92031803 - change to Close Ticket 
+END - YTS92031803 
+START - YTS92031812 - [URGENT - UAT] (188Asia)[RLUU-2377][UAT][188A][Group tickets] - 04/29/22 (Fri) 
+[OK] Create YTS92031812 to JSM 
+[Success] Update YTS92031812 option to JSM 
+[Success] YTS92031812 - change to In Progress 
+[Success] YTS92031812 - change to Complete Request 
+[Success] YTS92031812 - change to Close Ticket 
+END - YTS92031812 
+START - YTS92031814 - [URGENT - UAT and PROD] (188Asia)[RLPU-3633][Hotfix][188A]Group ticket - 04/29/22 (Fri) 
+[OK] Create YTS92031814 to JSM 
+[Success] Update YTS92031814 option to JSM 
+[Success] YTS92031814 - change to In Progress 
+[Success] YTS92031814 - change to Complete Request 
+[Success] YTS92031814 - change to Close Ticket 
+END - YTS92031814 
+START - YTS92031828 - [UAT Patch][SBK][RLUU-2379][CSB-347][QT-38342] Unable to settlement by wager for early parlay lose wager 
+[OK] Create YTS92031828 to JSM 
+[Success] Update YTS92031828 option to JSM 
+[Success] YTS92031828 - change to In Progress 
+[Success] YTS92031828 - change to Complete Request 
+[Success] YTS92031828 - change to Close Ticket 
+END - YTS92031828 
+START - YTS92031829 - [URGENT - UAT] (AgileDeal)[RLUU-2381][AgileDeal] UAT2 hotfix - 05/03/22 (Tue) 
+[OK] Create YTS92031829 to JSM 
+[Success] Update YTS92031829 option to JSM 
+[Success] YTS92031829 - change to In Progress 
+[Success] YTS92031829 - change to Complete Request 
+[Success] YTS92031829 - change to Close Ticket 
+END - YTS92031829 
+START - YTS92031830 - Update APS.CM_CUTOFF_PERIOD (202205) 
+[OK] Create YTS92031830 to JSM 
+[Success] Update YTS92031830 option to JSM 
+[Success] YTS92031830 - change to In Progress 
+[Success] YTS92031830 - change to Complete Request 
+[Success] YTS92031830 - change to Close Ticket 
+END - YTS92031830 
+START - YTS92031831 - [URGENT - UAT and PROD] (188Asia)[RLPU-3635][Hotfix][188A]Group Tickets - 05/03/22 (Tue) 
+[OK] Create YTS92031831 to JSM 
+[Success] Update YTS92031831 option to JSM 
+[Success] YTS92031831 - change to In Progress 
+[Success] YTS92031831 - change to Complete Request 
+[Success] YTS92031831 - change to Close Ticket 
+END - YTS92031831 
+START - YTS92031832 - No Downtime Request for Production Deployment (188Asia) 04-May-2022 (Wednesday) 
+[OK] Create YTS92031832 to JSM 
+[Success] Update YTS92031832 option to JSM 
+[Success] YTS92031832 - change to In Progress 
+[Success] YTS92031832 - change to Complete Request 
+[Success] YTS92031832 - change to Close Ticket 
+END - YTS92031832 
+START - YTS92031838 - Gathering Statistics for Performance Issue of PIM-25126 
+[OK] Create YTS92031838 to JSM 
+[Success] Update YTS92031838 option to JSM 
+[Success] YTS92031838 - change to In Progress 
+[Success] YTS92031838 - change to Complete Request 
+[Success] YTS92031838 - change to Close Ticket 
+END - YTS92031838 
+START - YTS92031843 - No Downtime Request for UAT Deployment (NBG) 05-May-2022 (Thursday) 
+[OK] Create YTS92031843 to JSM 
+[Success] Update YTS92031843 option to JSM 
+[Success] YTS92031843 - change to In Progress 
+[Success] YTS92031843 - change to Complete Request 
+[Success] YTS92031843 - change to Close Ticket 
+END - YTS92031843 
+START - YTS92031848 - No Downtime Request for UAT Deployment (AgileDeal) 05-May-2022 (Thursday) 
+[OK] Create YTS92031848 to JSM 
+[Success] Update YTS92031848 option to JSM 
+[Success] YTS92031848 - change to In Progress 
+[Success] YTS92031848 - change to Complete Request 
+[Success] YTS92031848 - change to Close Ticket 
+END - YTS92031848 
+START - YTS92031853 - [URGENT - UAT and PROD] (188Asia)[RLPU-3638][Hotfix][188A]Group ticket - 05/05/22 (Thu) 
+[OK] Create YTS92031853 to JSM 
+[Success] Update YTS92031853 option to JSM 
+[Success] YTS92031853 - change to In Progress 
+[Success] YTS92031853 - change to Complete Request 
+[Success] YTS92031853 - change to Close Ticket 
+END - YTS92031853 
+START - YTS92031855 - [URGENT - UAT] (188Asia)[RLUU-2384][UAT][188A][Group tickets] - 05/05/22 (Thu) 
+[OK] Create YTS92031855 to JSM 
+[Success] Update YTS92031855 option to JSM 
+[Success] YTS92031855 - change to In Progress 
+[Success] YTS92031855 - change to Complete Request 
+[Success] YTS92031855 - change to Close Ticket 
+END - YTS92031855 
+START - YTS92031864 - [URGENT - UAT and PROD] (188Asia)[RLPU-3641][Hotfix][188A] PIM-25133 iOWB - Data discrepancies for KY Chess on 12th April 2022 - 05/06/22 (Fri) 
+[OK] Create YTS92031864 to JSM 
+[Success] Update YTS92031864 option to JSM 
+[Success] YTS92031864 - change to In Progress 
+[Success] YTS92031864 - change to Complete Request 
+[Success] YTS92031864 - change to Close Ticket 
+END - YTS92031864 
+START - YTS92031863 - [URGENT - UAT] (188Asia)[RLUU-2386][UAT][188A][PIM-25145] Unsettled Bets Data Patch - Flow Gaming, Casino - 05/06/22 (Fri) 
+[OK] Create YTS92031863 to JSM 
+[Success] Update YTS92031863 option to JSM 
+[Success] YTS92031863 - change to In Progress 
+[Success] YTS92031863 - change to Complete Request 
+[Success] YTS92031863 - change to Close Ticket 
+END - YTS92031863 
+START - YTS92031867 - [UATPATCH][CSB-577][CanReport] Tally CanReport with Free Bet information 
+[OK] Create YTS92031867 to JSM 
+[Success] Update YTS92031867 option to JSM 
+[Success] YTS92031867 - change to In Progress 
+[Success] YTS92031867 - change to Complete Request 
+[Success] YTS92031867 - change to Close Ticket 
+END - YTS92031867 
+START - YTS92031872 - No Downtime Request for Production Deployment (SBK) 11-May-2022 (Wednesday) 
+[OK] Create YTS92031872 to JSM 
+[Success] Update YTS92031872 option to JSM 
+[Success] YTS92031872 - change to In Progress 
+[Success] YTS92031872 - change to Complete Request 
+[Success] YTS92031872 - change to Close Ticket 
+END - YTS92031872 
+START - YTS92031875 - No Downtime Request for Production Deployment (SBK) 09-May-2022 (Monday) 
+[OK] Create YTS92031875 to JSM 
+[Success] Update YTS92031875 option to JSM 
+[Success] YTS92031875 - change to In Progress 
+[Success] YTS92031875 - change to Complete Request 
+[Success] YTS92031875 - change to Close Ticket 
+END - YTS92031875 
+START - YTS92031873 - Downtime Request for UAT Deployment (AgileSlots) 09-May-2022 (Monday) 
+[OK] Create YTS92031873 to JSM 
+[Success] Update YTS92031873 option to JSM 
+[Success] YTS92031873 - change to In Progress 
+[Success] YTS92031873 - change to Complete Request 
+[Success] YTS92031873 - change to Close Ticket 
+END - YTS92031873 
+START - YTS92031895 - No Downtime Request for Production Deployment (188Asia) 10-May-2022 (Tuesday) 
+[OK] Create YTS92031895 to JSM 
+[Success] Update YTS92031895 option to JSM 
+[Success] YTS92031895 - change to In Progress 
+[Success] YTS92031895 - change to Complete Request 
+[Success] YTS92031895 - change to Close Ticket 
+END - YTS92031895 
+START - YTS92031896 - FW: [CAS] [Hotfix] The errors raising form game server - 05/10/22 
+[OK] Create YTS92031896 to JSM 
+[Success] Update YTS92031896 option to JSM 
+[Success] YTS92031896 - change to In Progress 
+[Success] YTS92031896 - change to Complete Request 
+[Success] YTS92031896 - change to Close Ticket 
+END - YTS92031896 
+START - YTS92031898 - No Downtime Request for Production Deployment (188Asia) 11-May-2022 (Wednesday) 
+[OK] Create YTS92031898 to JSM 
+[Success] Update YTS92031898 option to JSM 
+[Success] YTS92031898 - change to In Progress 
+[Success] YTS92031898 - change to Complete Request 
+[Success] YTS92031898 - change to Close Ticket 
+END - YTS92031898 
+START - YTS92031899 - No Downtime Request for Production Deployment (AgileDeal) 12-May-2022 (Thursday) 
+[OK] Create YTS92031899 to JSM 
+[Success] Update YTS92031899 option to JSM 
+[Success] YTS92031899 - change to In Progress 
+[Success] YTS92031899 - change to Complete Request 
+[Success] YTS92031899 - change to Close Ticket 
+END - YTS92031899 
+START - YTS92031912 - [URGENT - UAT and PROD] (188Asia)[RLPU-3646][Hotfix][188A] - 05/11/22 (Wed) 
+[OK] Create YTS92031912 to JSM 
+[Success] Update YTS92031912 option to JSM 
+[Success] YTS92031912 - change to In Progress 
+[Success] YTS92031912 - change to Complete Request 
+[Success] YTS92031912 - change to Close Ticket 
+END - YTS92031912 
+START - YTS92031915 - Downtime Request for UAT Deployment (188Asia) 12-May-2022 (Thursday) 
+[OK] Create YTS92031915 to JSM 
+[Success] Update YTS92031915 option to JSM 
+[Success] YTS92031915 - change to In Progress 
+[Success] YTS92031915 - change to Complete Request 
+[Success] YTS92031915 - change to Close Ticket 
+END - YTS92031915 
+START - YTS92031919 - [URGENT - UAT and PROD] (188Asia)[RLPU-3645][UrgentReques][188A] Group tickets for Casino RedTiger migration - 05/12/22 (Thu) 
+[OK] Create YTS92031919 to JSM 
+[Success] Update YTS92031919 option to JSM 
+[Success] YTS92031919 - change to In Progress 
+[Success] YTS92031919 - change to Complete Request 
+[Success] YTS92031919 - change to Close Ticket 
+END - YTS92031919 
+START - YTS92031938 - [URGENT - UAT] (188Asia)[RLUU-2393][UAT][188A][Group tickets] - 05/13/22 (Fri) 
+[OK] Create YTS92031938 to JSM 
+[Success] Update YTS92031938 option to JSM 
+[Success] YTS92031938 - change to In Progress 
+[Success] YTS92031938 - change to Complete Request 
+[Success] YTS92031938 - change to Close Ticket 
+END - YTS92031938 
+START - YTS92031939 - Downtime Request for UAT Deployment (AgileSlots) 16-May-2022 (Monday) 
+[OK] Create YTS92031939 to JSM 
+[Success] Update YTS92031939 option to JSM 
+[Success] YTS92031939 - change to In Progress 
+[Success] YTS92031939 - change to Complete Request 
+[Success] YTS92031939 - change to Close Ticket 
+END - YTS92031939 
+START - YTS92031941 - No Downtime Request for Production Deployment (NBG) 17-May-2022 (Tuesday) 
+[OK] Create YTS92031941 to JSM 
+[Success] Update YTS92031941 option to JSM 
+[Success] YTS92031941 - change to In Progress 
+[Success] YTS92031941 - change to Complete Request 
+[Success] YTS92031941 - change to Close Ticket 
+END - YTS92031941 
+START - YTS92031940 - No Downtime Request for Production Deployment (AgileSlots) 17-May-2022 (Tuesday) 
+[OK] Create YTS92031940 to JSM 
+[Success] Update YTS92031940 option to JSM 
+[Success] YTS92031940 - change to In Progress 
+[Success] YTS92031940 - change to Complete Request 
+[Success] YTS92031940 - change to Close Ticket 
+END - YTS92031940 
+START - YTS92031952 - [URGENT - UAT] (188Asia)[RLUU-2394][UAT][188A][Group tickets] - 05/13/22 (Fri) 
+[OK] Create YTS92031952 to JSM 
+[Success] Update YTS92031952 option to JSM 
+[Success] YTS92031952 - change to In Progress 
+[Success] YTS92031952 - change to Complete Request 
+[Success] YTS92031952 - change to Close Ticket 
+END - YTS92031952 
+START - YTS92031951 - No Downtime Request for UAT Deployment (AgileDeal) 16-May-2022 (Monday) 
+[OK] Create YTS92031951 to JSM 
+[Success] Update YTS92031951 option to JSM 
+[Success] YTS92031951 - change to In Progress 
+[Success] YTS92031951 - change to Complete Request 
+[Success] YTS92031951 - change to Close Ticket 
+END - YTS92031951 
+START - YTS92031960 - Update PRA.CM_CUTOFF_PERIOD (202204) 
+[OK] Create YTS92031960 to JSM 
+[Success] Update YTS92031960 option to JSM 
+[Success] YTS92031960 - change to In Progress 
+[Success] YTS92031960 - change to Complete Request 
+[Success] YTS92031960 - change to Close Ticket 
+END - YTS92031960 
+START - YTS92031974 - Update PRA.CM_CUTOFF_PERIOD (202204) 
+[OK] Create YTS92031974 to JSM 
+[Success] Update YTS92031974 option to JSM 
+[Success] YTS92031974 - change to In Progress 
+[Success] YTS92031974 - change to Complete Request 
+[Success] YTS92031974 - change to Close Ticket 
+END - YTS92031974 
+START - YTS92031976 - No Downtime Request for Production Deployment (188Asia) 18-May-2022 (Wednesday) 
+[OK] Create YTS92031976 to JSM 
+[Success] Update YTS92031976 option to JSM 
+[Success] YTS92031976 - change to In Progress 
+[Success] YTS92031976 - change to Complete Request 
+[Success] YTS92031976 - change to Close Ticket 
+END - YTS92031976 
+START - YTS92031979 - Downtime Request for UAT Deployment (SBK) 19-May-2022 (Thursday) 
+[OK] Create YTS92031979 to JSM 
+[Success] Update YTS92031979 option to JSM 
+[Success] YTS92031979 - change to In Progress 
+[Success] YTS92031979 - change to Complete Request 
+[Success] YTS92031979 - change to Close Ticket 
+END - YTS92031979 
+START - YTS92031988 - No Downtime Request for UAT Deployment (NBG) 19-May-2022 (Thursday) 
+[OK] Create YTS92031988 to JSM 
+[Success] Update YTS92031988 option to JSM 
+[Success] YTS92031988 - change to In Progress 
+[Success] YTS92031988 - change to Complete Request 
+[Success] YTS92031988 - change to Close Ticket 
+END - YTS92031988 
+START - YTS92031987 - Downtime Request for UAT Deployment (188Asia) 19-May-2022 (Thursday) 
+[OK] Create YTS92031987 to JSM 
+[Success] Update YTS92031987 option to JSM 
+[Success] YTS92031987 - change to In Progress 
+[Success] YTS92031987 - change to Complete Request 
+[Success] YTS92031987 - change to Close Ticket 
+END - YTS92031987 
+START - YTS92032004 - [URGENT - UAT] (188Asia)[RLUU-2401][UAT][188A][Group tickets] Batch data patch by user request - 05/20/22 (Fri) 
+[OK] Create YTS92032004 to JSM 
+[Success] Update YTS92032004 option to JSM 
+[Success] YTS92032004 - change to In Progress 
+[Success] YTS92032004 - change to Complete Request 
+[Success] YTS92032004 - change to Close Ticket 
+END - YTS92032004 
+START - YTS92032020 - No Downtime Request for Production Deployment (SBK) 24-May-2022 (Tuesday) 
+[OK] Create YTS92032020 to JSM 
+[Success] Update YTS92032020 option to JSM 
+[Success] YTS92032020 - change to In Progress 
+[Success] YTS92032020 - change to Complete Request 
+[Success] YTS92032020 - change to Close Ticket 
+END - YTS92032020 
+START - YTS92032019 - No Downtime Request for Production Deployment (188Asia) 24-May-2022 (Tuesday) 
+[OK] Create YTS92032019 to JSM 
+[Success] Update YTS92032019 option to JSM 
+[Success] YTS92032019 - change to In Progress 
+[Success] YTS92032019 - change to Complete Request 
+[Success] YTS92032019 - change to Close Ticket 
+END - YTS92032019 
+START - YTS92032031 - No Downtime Request for Production Deployment (188Asia) 25-May-2022 (Wednesday) 
+[OK] Create YTS92032031 to JSM 
+[Success] Update YTS92032031 option to JSM 
+[Success] YTS92032031 - change to In Progress 
+[Success] YTS92032031 - change to Complete Request 
+[Success] YTS92032031 - change to Close Ticket 
+END - YTS92032031 
+START - YTS92032038 - [UATPATCH][CSB-601][CanReport] Convert CashOut Amout value to 6 decimal on GAS5400 
+[OK] Create YTS92032038 to JSM 
+[Success] Update YTS92032038 option to JSM 
+[Success] YTS92032038 - change to In Progress 
+[Success] YTS92032038 - change to Complete Request 
+[Success] YTS92032038 - change to Close Ticket 
+END - YTS92032038 
+START - YTS92032039 - Downtime Request for UAT Deployment (188Asia) 26-May-2022 (Thursday) 
+[OK] Create YTS92032039 to JSM 
+[Success] Update YTS92032039 option to JSM 
+[Success] YTS92032039 - change to In Progress 
+[Success] YTS92032039 - change to Complete Request 
+[Success] YTS92032039 - change to Close Ticket 
+END - YTS92032039 
+START - YTS92032040 - No Downtime Request for UAT Deployment (NBG) 26-May-2022 (Thursday) 
+[OK] Create YTS92032040 to JSM 
+[Success] Update YTS92032040 option to JSM 
+[Success] YTS92032040 - change to In Progress 
+[Success] YTS92032040 - change to Complete Request 
+[Success] YTS92032040 - change to Close Ticket 
+END - YTS92032040 
+START - YTS92032051 - Drop PRA.SWTXN for reduce db sizing (change sender) 
+[OK] Create YTS92032051 to JSM 
+[Success] Update YTS92032051 option to JSM 
+[Success] YTS92032051 - change to In Progress 
+[Success] YTS92032051 - change to Complete Request 
+[Success] YTS92032051 - change to Close Ticket 
+END - YTS92032051 
+START - YTS92032053 - [URGENT - UAT] (SBK)[RLUU-2405][UAT][Patch][PIM-24969][QT-38183] Group tickets Patch 
+[OK] Create YTS92032053 to JSM 
+[Success] Update YTS92032053 option to JSM 
+[Success] YTS92032053 - change to In Progress 
+[Success] YTS92032053 - change to Complete Request 
+[Success] YTS92032053 - change to Close Ticket 
+END - YTS92032053 
+START - YTS92032054 - [UATPATCH][CSB-577][CanReport] Tally CanReport with Free Bet information 
+[OK] Create YTS92032054 to JSM 
+[Success] Update YTS92032054 option to JSM 
+[Success] YTS92032054 - change to In Progress 
+[Success] YTS92032054 - change to Complete Request 
+[Success] YTS92032054 - change to Close Ticket 
+END - YTS92032054 
+START - YTS92032055 - [URGENT - UAT and PROD] (188Asia)[RLPU-3662][Hotfix][188A][ Pay2me ] Merchant 180622087458 Balance Report Error - 05/26/22 (Thu) 
+[OK] Create YTS92032055 to JSM 
+[Success] Update YTS92032055 option to JSM 
+[Success] YTS92032055 - change to In Progress 
+[Success] YTS92032055 - change to Complete Request 
+[Success] YTS92032055 - change to Close Ticket 
+END - YTS92032055 
+START - YTS92032062 - [URGENT - UAT] (SBK)[RLUU-2407][UAT Patch] group tickets for DSA - 05/27/22 (Fri) 
+[OK] Create YTS92032062 to JSM 
+[Success] Update YTS92032062 option to JSM 
+[Success] YTS92032062 - change to In Progress 
+[Success] YTS92032062 - change to Complete Request 
+[Success] YTS92032062 - change to Close Ticket 
+END - YTS92032062 
+START - YTS92032063 - [URGENT - UAT] (188Asia)[RLUU-2408][UAT][188A][Group tickets] - 05/27/22 (Fri) 
+[OK] Create YTS92032063 to JSM 
+[Success] Update YTS92032063 option to JSM 
+[Success] YTS92032063 - change to In Progress 
+[Success] YTS92032063 - change to Complete Request 
+[Success] YTS92032063 - change to Close Ticket 
+END - YTS92032063 
+START - YTS92032064 - [URGENT - UAT] (188Asia)[RLUU-2409][UAT][188A][Group tickets] - 05/27/22 (Fri) 
+[OK] Create YTS92032064 to JSM 
+[Success] Update YTS92032064 option to JSM 
+[Success] YTS92032064 - change to In Progress 
+[Success] YTS92032064 - change to Complete Request 
+[Success] YTS92032064 - change to Close Ticket 
+END - YTS92032064 
+START - YTS92032066 - [URGENT - UAT] (188Asia)[RLUU-2410][UAT][188A][Group tickets] - 05/27/22 (Fri) 
+[OK] Create YTS92032066 to JSM 
+[Success] Update YTS92032066 option to JSM 
+[Success] YTS92032066 - change to In Progress 
+[Success] YTS92032066 - change to Complete Request 
+[Success] YTS92032066 - change to Close Ticket 
+END - YTS92032066 
+START - YTS92032068 - No Downtime Request for Production Deployment (NBG) 31-May-2022 (Tuesday) 
+[OK] Create YTS92032068 to JSM 
+[Success] Update YTS92032068 option to JSM 
+[Success] YTS92032068 - change to In Progress 
+[Success] YTS92032068 - change to Complete Request 
+[Success] YTS92032068 - change to Close Ticket 
+END - YTS92032068 
+START - YTS92032071 - [URGENT - UAT] (AgileSlots)[RLUU-2411][Hotfix][CAS][UTIM-11322] iCash account Unable to login GC - 05/30/22 (Mon) 
+[OK] Create YTS92032071 to JSM 
+[Success] Update YTS92032071 option to JSM 
+[Success] YTS92032071 - change to In Progress 
+[Success] YTS92032071 - change to Complete Request 
+[Success] YTS92032071 - change to Close Ticket 
+END - YTS92032071 
+START - YTS92032072 - [URGENT - UAT and PROD] (188Asia)[RLPU-3663][UrgentRequest][CC1-2494] Affiliate Association/Disassociation - 05/30/22 (Mon) 
+[OK] Create YTS92032072 to JSM 
+[Success] Update YTS92032072 option to JSM 
+[Success] YTS92032072 - change to In Progress 
+[Success] YTS92032072 - change to Complete Request 
+[Success] YTS92032072 - change to Close Ticket 
+END - YTS92032072 
+START - YTS92032075 - No Downtime Request for Production Deployment (188Asia) 31-May-2022 (Tuesday) 
+[OK] Create YTS92032075 to JSM 
+[Success] Update YTS92032075 option to JSM 
+[Success] YTS92032075 - change to In Progress 
+[Success] YTS92032075 - change to Complete Request 
+[Success] YTS92032075 - change to Close Ticket 
+END - YTS92032075 
+START - YTS92032076 - [RTX] Detach obsolete databases on PROD/UAT 
+[OK] Create YTS92032076 to JSM 
+[Success] Update YTS92032076 option to JSM 
+[Success] YTS92032076 - change to In Progress 
+[Success] YTS92032076 - change to Complete Request 
+[Success] YTS92032076 - change to Close Ticket 
+END - YTS92032076 
+START - YTS92032079 - Downtime Request for UAT Deployment (RTX) 31-May-2022 (Tuesday) 
+[OK] Create YTS92032079 to JSM 
+[Success] Update YTS92032079 option to JSM 
+[Success] YTS92032079 - change to In Progress 
+[Success] YTS92032079 - change to Complete Request 
+[Success] YTS92032079 - change to Close Ticket 
+END - YTS92032079 
+START - YTS92032093 - No Downtime Request for Production Deployment (188Asia) 01-June-2022 (Wednesday) 
+[OK] Create YTS92032093 to JSM 
+[Success] Update YTS92032093 option to JSM 
+[Success] YTS92032093 - change to In Progress 
+[Success] YTS92032093 - change to Complete Request 
+[Success] YTS92032093 - change to Close Ticket 
+END - YTS92032093 
+START - YTS92032092 - No Downtime Request for Production Deployment (SBK) 01-June-2022 (Wednesday) 
+[OK] Create YTS92032092 to JSM 
+[Success] Update YTS92032092 option to JSM 
+[Success] YTS92032092 - change to In Progress 
+[Success] YTS92032092 - change to Complete Request 
+[Success] YTS92032092 - change to Close Ticket 
+END - YTS92032092 
+START - YTS92032104 - [P][Hotfix][IDP-7175][SBK] Archival job delete JOURNALBALANCE compare error 
+[OK] Create YTS92032104 to JSM 
+[Success] Update YTS92032104 option to JSM 
+[Success] YTS92032104 - change to In Progress 
+[Success] YTS92032104 - change to Complete Request 
+[Success] YTS92032104 - change to Close Ticket 
+END - YTS92032104 
+START - YTS92032106 - Downtime Request for UAT Deployment (188Asia) 02-June-2022 (Thursday) 
+[OK] Create YTS92032106 to JSM 
+[Success] Update YTS92032106 option to JSM 
+[Success] YTS92032106 - change to In Progress 
+[Success] YTS92032106 - change to Complete Request 
+[Success] YTS92032106 - change to Close Ticket 
+END - YTS92032106 
+START - YTS92032107 - Downtime Request for UAT Deployment (RTX) 02-June-2022 (Thursday) 
+[OK] Create YTS92032107 to JSM 
+[Success] Update YTS92032107 option to JSM 
+[Success] YTS92032107 - change to In Progress 
+[Success] YTS92032107 - change to Complete Request 
+[Success] YTS92032107 - change to Close Ticket 
+END - YTS92032107 
+START - YTS92032117 - Downtime Request for UAT Deployment (SBK) 02-June-2022 (Thursday) 
+[OK] Create YTS92032117 to JSM 
+[Success] Update YTS92032117 option to JSM 
+[Success] YTS92032117 - change to In Progress 
+[Success] YTS92032117 - change to Complete Request 
+[Success] YTS92032117 - change to Close Ticket 
+END - YTS92032117 
+START - YTS92032118 - Downtime Request for UAT Deployment (SBK) 02-June-2022 (Thursday) 
+[OK] Create YTS92032118 to JSM 
+[Success] Update YTS92032118 option to JSM 
+[Success] YTS92032118 - change to In Progress 
+[Success] YTS92032118 - change to Complete Request 
+[Success] YTS92032118 - change to Close Ticket 
+END - YTS92032118 
+START - YTS92032121 - [RLPU-3669][HOTFIX][CSB-577][CanReport] Tally CanReport with Free Bet information 
+[OK] Create YTS92032121 to JSM 
+[Success] Update YTS92032121 option to JSM 
+[Success] YTS92032121 - change to In Progress 
+[Success] YTS92032121 - change to Complete Request 
+[Success] YTS92032121 - change to Close Ticket 
+END - YTS92032121 
+START - YTS92032120 - [RLPU-3669][HOTFIX][CSB-577][CanReport] Tally CanReport with Free Bet information 
+[OK] Create YTS92032120 to JSM 
+[Success] Update YTS92032120 option to JSM 
+[Success] YTS92032120 - change to In Progress 
+[Success] YTS92032120 - change to Complete Request 
+[Success] YTS92032120 - change to Close Ticket 
+END - YTS92032120 
+START - YTS92032125 - [URGENT - UAT] (188Asia)[RLUU-2415][UAT][188A][Group tickets] Batch data patch requested by user - 06/02/22 (Thu) 
+[OK] Create YTS92032125 to JSM 
+[Success] Update YTS92032125 option to JSM 
+[Success] YTS92032125 - change to In Progress 
+[Success] YTS92032125 - change to Complete Request 
+[Success] YTS92032125 - change to Close Ticket 
+END - YTS92032125 
+START - YTS92032127 - [URGENT - UAT] (188Asia)[RLUU-2414][UAT][188A][Group tickets] - 06/02/22 (Thu) 
+[OK] Create YTS92032127 to JSM 
+[Success] Update YTS92032127 option to JSM 
+[Success] YTS92032127 - change to In Progress 
+[Success] YTS92032127 - change to Complete Request 
+[Success] YTS92032127 - change to Close Ticket 
+END - YTS92032127 
+START - YTS92032136 - Downtime Request for Production Deployment (RTX) 06-June-2022 (Monday) 
+[OK] Create YTS92032136 to JSM 
+[Success] Update YTS92032136 option to JSM 
+[Success] YTS92032136 - change to In Progress 
+[Success] YTS92032136 - change to Complete Request 
+[Success] YTS92032136 - change to Close Ticket 
+END - YTS92032136 
+START - YTS92032143 - No Downtime Request for Production Deployment (188Asia) 07-June-2022 (Tuesday) 
+[OK] Create YTS92032143 to JSM 
+[Success] Update YTS92032143 option to JSM 
+[Success] YTS92032143 - change to In Progress 
+[Success] YTS92032143 - change to Complete Request 
+[Success] YTS92032143 - change to Close Ticket 
+END - YTS92032143 
+START - YTS92032146 - [URGENT - UAT] (188Asia)[RLUU-2417][UAT][188A][PRA] DB review and reduce sizing - 06/06/22 (Mon) 
+[OK] Create YTS92032146 to JSM 
+[Success] Update YTS92032146 option to JSM 
+[Success] YTS92032146 - change to In Progress 
+[Success] YTS92032146 - change to Complete Request 
+[Success] YTS92032146 - change to Close Ticket 
+END - YTS92032146 
+START - YTS92032153 - No Downtime Request for Production Deployment (188Asia) 08-June-2022 (Wednesday) 
+[OK] Create YTS92032153 to JSM 
+[Success] Update YTS92032153 option to JSM 
+[Success] YTS92032153 - change to In Progress 
+[Success] YTS92032153 - change to Complete Request 
+[Success] YTS92032153 - change to Close Ticket 
+END - YTS92032153 
+START - YTS92032155 - [URGENT - UAT and PROD] (188Asia)[RLPU-3671][Hotfix][188A][PIM-25388] AFF BO - commission rate of CG in the Affiliate commission report showing error - 06/07/22 (Tue) 
+[OK] Create YTS92032155 to JSM 
+[Success] Update YTS92032155 option to JSM 
+[Success] YTS92032155 - change to In Progress 
+[Success] YTS92032155 - change to Complete Request 
+[Success] YTS92032155 - change to Close Ticket 
+END - YTS92032155 
+START - YTS92032156 - [URGENT - UAT and PROD] (188Asia)[RLPU-3671][Hotfix][188A][PIM-25388] AFF BO - commission rate of CG in the Affiliate commission report showing error - 06/07/22 (Tue) 
+[OK] Create YTS92032156 to JSM 
+[Success] Update YTS92032156 option to JSM 
+[Success] YTS92032156 - change to In Progress 
+[Success] YTS92032156 - change to Complete Request 
+[Success] YTS92032156 - change to Close Ticket 
+END - YTS92032156 
+START - YTS92032159 - [URGENT - UAT and PROD] (188Asia)[RLPU-3671][Hotfix][188A][PIM-25388] AFF BO - commission rate of CG in the Affiliate commission report showing error - 06/07/22 (Tue) 
+[OK] Create YTS92032159 to JSM 
+[Success] Update YTS92032159 option to JSM 
+[Success] YTS92032159 - change to In Progress 
+[Success] YTS92032159 - change to Complete Request 
+[Success] YTS92032159 - change to Close Ticket 
+END - YTS92032159 
+START - YTS92032160 - No Downtime Request for UAT Deployment (NBG) 09-June-2022 (Thursday) 
+[OK] Create YTS92032160 to JSM 
+[Success] Update YTS92032160 option to JSM 
+[Success] YTS92032160 - change to In Progress 
+[Success] YTS92032160 - change to Complete Request 
+[Success] YTS92032160 - change to Close Ticket 
+END - YTS92032160 
+START - YTS92032161 - No Downtime Request for UAT Deployment (AgileSlots) 08-June-2022 (Tuesday) 
+[OK] Create YTS92032161 to JSM 
+[Success] Update YTS92032161 option to JSM 
+[Success] YTS92032161 - change to In Progress 
+[Success] YTS92032161 - change to Complete Request 
+[Success] YTS92032161 - change to Close Ticket 
+END - YTS92032161 
+START - YTS92032163 - [UPDATE] No Downtime Request for UAT Deployment (AgileSlots) 08-June-2022 (Wednesday) 
+[OK] Create YTS92032163 to JSM 
+[Success] Update YTS92032163 option to JSM 
+[Success] YTS92032163 - change to In Progress 
+[Success] YTS92032163 - change to Complete Request 
+[Success] YTS92032163 - change to Close Ticket 
+END - YTS92032163 
+START - YTS92032166 - [URGENT - UAT and PROD] (188Asia)[RLPU-3672][Urgent Request][188A]AFF BO - Change Revenue Share Valu [...] 
+[OK] Create YTS92032166 to JSM 
+[Success] Update YTS92032166 option to JSM 
+[Success] YTS92032166 - change to In Progress 
+[Success] YTS92032166 - change to Complete Request 
+[Success] YTS92032166 - change to Close Ticket 
+END - YTS92032166 
+START - YTS92032167 - Downtime Request for UAT Deployment (SBK) 09-June-2022 (Thursday) 
+[OK] Create YTS92032167 to JSM 
+[Success] Update YTS92032167 option to JSM 
+[Success] YTS92032167 - change to In Progress 
+[Success] YTS92032167 - change to Complete Request 
+[Success] YTS92032167 - change to Close Ticket 
+END - YTS92032167 
+START - YTS92032169 - Downtime Request for UAT Deployment (188Asia) 09-June-2022 (Thursday) 
+[OK] Create YTS92032169 to JSM 
+[Success] Update YTS92032169 option to JSM 
+[Success] YTS92032169 - change to In Progress 
+[Success] YTS92032169 - change to Complete Request 
+[Success] YTS92032169 - change to Close Ticket 
+END - YTS92032169 
+START - YTS92032180 - No Downtime Request for UAT 2 Deployment (AgileDeal) 13-June-2022 (Monday) 
+[OK] Create YTS92032180 to JSM 
+[Success] Update YTS92032180 option to JSM 
+[Success] YTS92032180 - change to In Progress 
+[Success] YTS92032180 - change to Complete Request 
+[Success] YTS92032180 - change to Close Ticket 
+END - YTS92032180 
+START - YTS92032183 - [URGENT - UAT] (188Asia)[RLUU-2423][UAT][188A][Group tickets] - 06/10/22 (Fri) 
+[OK] Create YTS92032183 to JSM 
+[Success] Update YTS92032183 option to JSM 
+[Success] YTS92032183 - change to In Progress 
+[Success] YTS92032183 - change to Complete Request 
+[Success] YTS92032183 - change to Close Ticket 
+END - YTS92032183 
+START - YTS92032182 - [URGENT - UAT] (188Asia)[RLUU-2424][UAT][188A] Unsettled Bets data Patch  - 06/10/22 (Fri) 
+[OK] Create YTS92032182 to JSM 
+[Success] Update YTS92032182 option to JSM 
+[Success] YTS92032182 - change to In Progress 
+[Success] YTS92032182 - change to Complete Request 
+[Success] YTS92032182 - change to Close Ticket 
+END - YTS92032182 
+START - YTS92032184 - DSA188ARCH Vault Data Request 
+[OK] Create YTS92032184 to JSM 
+[Success] Update YTS92032184 option to JSM 
+[Success] YTS92032184 - change to In Progress 
+[Success] YTS92032184 - change to Complete Request 
+[Success] YTS92032184 - change to Close Ticket 
+END - YTS92032184 
+START - YTS92032185 - No Downtime Request for Production Deployment (AgileSlots) 14-June-2022 (Tuesday) 
+[OK] Create YTS92032185 to JSM 
+[Success] Update YTS92032185 option to JSM 
+[Success] YTS92032185 - change to In Progress 
+[Success] YTS92032185 - change to Complete Request 
+[Success] YTS92032185 - change to Close Ticket 
+END - YTS92032185 
+START - YTS92032206 - No Downtime Request for Production Deployment (188Asia) 14-June-2022 (Tuesday) 
+[OK] Create YTS92032206 to JSM 
+[Success] Update YTS92032206 option to JSM 
+[Success] YTS92032206 - change to In Progress 
+[Success] YTS92032206 - change to Complete Request 
+[Success] YTS92032206 - change to Close Ticket 
+END - YTS92032206 
+START - YTS92032215 - [URGENT -  PROD] (SBK)[RLPU-3676][Hotfix][PIM-25443]Data Patch for SBK Member Country - 06/14/22 (Tue) 
+[OK] Create YTS92032215 to JSM 
+[Success] Update YTS92032215 option to JSM 
+[Success] YTS92032215 - change to In Progress 
+[Success] YTS92032215 - change to Complete Request 
+[Success] YTS92032215 - change to Close Ticket 
+END - YTS92032215 
+START - YTS92032216 - No Downtime Request for Production Deployment (188Asia) 15-June-2022 (Wednesday) 
+[OK] Create YTS92032216 to JSM 
+[Success] Update YTS92032216 option to JSM 
+[Success] YTS92032216 - change to In Progress 
+[Success] YTS92032216 - change to Complete Request 
+[Success] YTS92032216 - change to Close Ticket 
+END - YTS92032216 
+START - YTS92032225 - Downtime Request for UAT Deployment (188Asia) 16-June-2022 (Thursday) 
+[OK] Create YTS92032225 to JSM 
+[Success] Update YTS92032225 option to JSM 
+[Success] YTS92032225 - change to In Progress 
+[Success] YTS92032225 - change to Complete Request 
+[Success] YTS92032225 - change to Close Ticket 
+END - YTS92032225 
+START - YTS92032227 - [URGENT - UAT and PROD] (188Asia)[RLPU-3679][Hotfix][188A] [PIM-25468] AFF BO - Affiliate Listing setting page can not update - 06/15/22 (Wed) 
+[OK] Create YTS92032227 to JSM 
+[Success] Update YTS92032227 option to JSM 
+[Success] YTS92032227 - change to In Progress 
+[Success] YTS92032227 - change to Complete Request 
+[Success] YTS92032227 - change to Close Ticket 
+END - YTS92032227 
+START - YTS92032236 - [URGENT - UAT] (188Asia)[RLUU-2429][UAT][188A][RISK] Jumio Integration Phase 2.2 - 06/16/22 (Thu) 
+[OK] Create YTS92032236 to JSM 
+[Success] Update YTS92032236 option to JSM 
+[Success] YTS92032236 - change to In Progress 
+[Success] YTS92032236 - change to Complete Request 
+[Success] YTS92032236 - change to Close Ticket 
+END - YTS92032236 
+START - YTS92032234 - [URGENT - UAT and PROD] (188Asia)[RLPU-3681][Hotfix][188A][SalesForce]iOWB - Frame-in component not working - 06/16/22 (Thu) 
+[OK] Create YTS92032234 to JSM 
+[Success] Update YTS92032234 option to JSM 
+[Success] YTS92032234 - change to In Progress 
+[Success] YTS92032234 - change to Complete Request 
+[Success] YTS92032234 - change to Close Ticket 
+END - YTS92032234 
+START - YTS92032240 - [URGENT - UAT] (SBK)[RLUU-2431][SBK][GMM][CSB-400][QT-39394] Result Process: Stuck in 'partial resettled' status - 06/17/22 (Fri) 
+[OK] Create YTS92032240 to JSM 
+[Success] Update YTS92032240 option to JSM 
+[Success] YTS92032240 - change to In Progress 
+[Success] YTS92032240 - change to Complete Request 
+[Success] YTS92032240 - change to Close Ticket 
+END - YTS92032240 
+START - YTS92032249 - [URGENT - UAT] (188Asia)[RLUU-2432][UAT][188A][Group tickets] - 06/17/22 (Fri) 
+[OK] Create YTS92032249 to JSM 
+[Success] Update YTS92032249 option to JSM 
+[Success] YTS92032249 - change to In Progress 
+[Success] YTS92032249 - change to Complete Request 
+[Success] YTS92032249 - change to Close Ticket 
+END - YTS92032249 
+START - YTS92032252 - Downtime Request for UAT Deployment (RTX) 20-June-2022 (Monday) 
+[OK] Create YTS92032252 to JSM 
+[Success] Update YTS92032252 option to JSM 
+[Success] YTS92032252 - change to In Progress 
+[Success] YTS92032252 - change to Complete Request 
+[Success] YTS92032252 - change to Close Ticket 
+END - YTS92032252 
+START - YTS92032254 - Downtime Request for UAT Deployment (SBK) 20-June-2022 (Monday) 
+[OK] Create YTS92032254 to JSM 
+[Success] Update YTS92032254 option to JSM 
+[Success] YTS92032254 - change to In Progress 
+[Success] YTS92032254 - change to Complete Request 
+[Success] YTS92032254 - change to Close Ticket 
+END - YTS92032254 
+START - YTS92032266 - No Downtime Request for Production Deployment (188Asia) 21-June-2022 (Tuesday) 
+[OK] Create YTS92032266 to JSM 
+[Success] Update YTS92032266 option to JSM 
+[Success] YTS92032266 - change to In Progress 
+[Success] YTS92032266 - change to Complete Request 
+[Success] YTS92032266 - change to Close Ticket 
+END - YTS92032266 
+START - YTS92032269 - [URGENT - PROD] (AgileSlots)[RLPU-3683][Hotfix][CAS][PIM-25488] Some wagers are not completed for long time. - 06/20/22 (Mon) 
+[OK] Create YTS92032269 to JSM 
+[Success] Update YTS92032269 option to JSM 
+[Success] YTS92032269 - change to In Progress 
+[Success] YTS92032269 - change to Complete Request 
+[Success] YTS92032269 - change to Close Ticket 
+END - YTS92032269 
+START - YTS92032275 - [URGENT - UAT] (188Asia)[RLUU-2435][UAT][188A][Group tickets] - 06/21/22 (Tue) 
+[OK] Create YTS92032275 to JSM 
+[Success] Update YTS92032275 option to JSM 
+[Success] YTS92032275 - change to In Progress 
+[Success] YTS92032275 - change to Complete Request 
+[Success] YTS92032275 - change to Close Ticket 
+END - YTS92032275 
+START - YTS92032276 - [URGENT - PROD] (SBK)[RLPU-3684][Hotfix][PIM-25443]Data Patch for SBK Member dateupdated and userupdated - 06/21/22 (Tue) 
+[OK] Create YTS92032276 to JSM 
+[Success] Update YTS92032276 option to JSM 
+[Success] YTS92032276 - change to In Progress 
+[Success] YTS92032276 - change to Complete Request 
+[Success] YTS92032276 - change to Close Ticket 
+END - YTS92032276 
+START - YTS92032277 - No Downtime Request for Production Deployment (188Asia) 22-June-2022 (Wednesday) 
+[OK] Create YTS92032277 to JSM 
+[Success] Update YTS92032277 option to JSM 
+[Success] YTS92032277 - change to In Progress 
+[Success] YTS92032277 - change to Complete Request 
+[Success] YTS92032277 - change to Close Ticket 
+END - YTS92032277 
+START - YTS92032281 - [URGENT - UAT and PROD] (188Asia)[RLPU-3685][Hotfix][188A] - 06/21/22 (Tue) 
+[OK] Create YTS92032281 to JSM 
+[Success] Update YTS92032281 option to JSM 
+[Success] YTS92032281 - change to In Progress 
+[Success] YTS92032281 - change to Complete Request 
+[Success] YTS92032281 - change to Close Ticket 
+END - YTS92032281 
+START - YTS92032282 - DB deadlock trc log request 
+[OK] Create YTS92032282 to JSM 
+[Success] Update YTS92032282 option to JSM 
+[Success] YTS92032282 - change to In Progress 
+[Success] YTS92032282 - change to Complete Request 
+[Success] YTS92032282 - change to Close Ticket 
+END - YTS92032282 
+START - YTS92032284 - [URGENT - PROD] (SBK)[RLPU-3686][Hotfix][SBK][GMM][PIM-25328] Combined Odds - FTIPOU and Team Points did not Follow Combined Odds - 06/22/22 (Wed) 
+[OK] Create YTS92032284 to JSM 
+[Success] Update YTS92032284 option to JSM 
+[Success] YTS92032284 - change to In Progress 
+[Success] YTS92032284 - change to Complete Request 
+[Success] YTS92032284 - change to Close Ticket 
+END - YTS92032284 
+START - YTS92032285 - CASHERWAGER Arch Job Disable 
+[OK] Create YTS92032285 to JSM 
+[Success] Update YTS92032285 option to JSM 
+[Success] YTS92032285 - change to In Progress 
+[Success] YTS92032285 - change to Complete Request 
+[Success] YTS92032285 - change to Close Ticket 
+END - YTS92032285 
+START - YTS92032287 - No Downtime Request for UAT Deployment (NBG) 23-June-2022 (Thursday) 
+[OK] Create YTS92032287 to JSM 
+[Success] Update YTS92032287 option to JSM 
+[Success] YTS92032287 - change to In Progress 
+[Success] YTS92032287 - change to Complete Request 
+[Success] YTS92032287 - change to Close Ticket 
+END - YTS92032287 
+START - YTS92032288 - Downtime Request for UAT Deployment (188Asia) 23-June-2022 (Thursday) 
+[OK] Create YTS92032288 to JSM 
+[Success] Update YTS92032288 option to JSM 
+[Success] YTS92032288 - change to In Progress 
+[Success] YTS92032288 - change to Complete Request 
+[Success] YTS92032288 - change to Close Ticket 
+END - YTS92032288 
+START - YTS92032290 - Downtime Request for UAT Deployment (SBK) 23-June-2022 (Thursday) 
+[OK] Create YTS92032290 to JSM 
+[Success] Update YTS92032290 option to JSM 
+[Success] YTS92032290 - change to In Progress 
+[Success] YTS92032290 - change to Complete Request 
+[Success] YTS92032290 - change to Close Ticket 
+END - YTS92032290 
+START - YTS92032291 - No Downtime Request for UAT Deployment (AgileDeal) 23-June-2022 (Thursday) 
+[OK] Create YTS92032291 to JSM 
+[Success] Update YTS92032291 option to JSM 
+[Success] YTS92032291 - change to In Progress 
+[Success] YTS92032291 - change to Complete Request 
+[Success] YTS92032291 - change to Close Ticket 
+END - YTS92032291 
+START - YTS92032292 - POPA188 [OPA188]、POPA [OPA] Create testing environment 
+[OK] Create YTS92032292 to JSM 
+[Success] Update YTS92032292 option to JSM 
+[Success] YTS92032292 - change to In Progress 
+[Success] YTS92032292 - change to Complete Request 
+[Success] YTS92032292 - change to Close Ticket 
+END - YTS92032292 
+START - YTS92032293 - [URGENT - PROD] (188Asia)[RLPU-3687][UrgentRequest][188A] Clean up the SBK live data - 06/23/22 (Thurs) 
+[OK] Create YTS92032293 to JSM 
+[Success] Update YTS92032293 option to JSM 
+[Success] YTS92032293 - change to In Progress 
+[Success] YTS92032293 - change to Complete Request 
+[Success] YTS92032293 - change to Close Ticket 
+END - YTS92032293 
+START - YTS92032295 - [URGENT - UAT] (SBK)[RLUU-2438][CSB-490][All Member Sites] My Bets: Cash out nonstop pending - 06/23/22 (Thu) 
+[OK] Create YTS92032295 to JSM 
+[Success] Update YTS92032295 option to JSM 
+[Success] YTS92032295 - change to In Progress 
+[Success] YTS92032295 - change to Complete Request 
+[Success] YTS92032295 - change to Close Ticket 
+END - YTS92032295 
+START - YTS92032298 - [URGENT - UAT] (188Asia)[RLUU-2440][UAT][188A][Group tickets] - 06/23/22 (Thu) 
+[OK] Create YTS92032298 to JSM 
+[Success] Update YTS92032298 option to JSM 
+[Success] YTS92032298 - change to In Progress 
+[Success] YTS92032298 - change to Complete Request 
+[Success] YTS92032298 - change to Close Ticket 
+END - YTS92032298 
+START - YTS92032299 - For UAT CASHWAGER188 ARCH JOB test (update the config file) 
+[OK] Create YTS92032299 to JSM 
+[Success] Update YTS92032299 option to JSM 
+[Success] YTS92032299 - change to In Progress 
+[Success] YTS92032299 - change to Complete Request 
+[Success] YTS92032299 - change to Close Ticket 
+END - YTS92032299 
+START - YTS92032302 - Downtime Request for UAT Deployment (RTX) 27-June-2022 (Monday) 
+[OK] Create YTS92032302 to JSM 
+[Success] Update YTS92032302 option to JSM 
+[Success] YTS92032302 - change to In Progress 
+[Success] YTS92032302 - change to Complete Request 
+[Success] YTS92032302 - change to Close Ticket 
+END - YTS92032302 
+START - YTS92032304 - No Downtime Request for Production Deployment (NBG) 27-June-2022 (Monday) 
+[OK] Create YTS92032304 to JSM 
+[Success] Update YTS92032304 option to JSM 
+[Success] YTS92032304 - change to In Progress 
+[Success] YTS92032304 - change to Complete Request 
+[Success] YTS92032304 - change to Close Ticket 
+END - YTS92032304 
+START - YTS92032307 - [URGENT - UAT] (188Asia)[RLUU-2443][UAT][188A][Group tickets] - 06/24/22 (Fri) 
+[OK] Create YTS92032307 to JSM 
+[Success] Update YTS92032307 option to JSM 
+[Success] YTS92032307 - change to In Progress 
+[Success] YTS92032307 - change to Complete Request 
+[Success] YTS92032307 - change to Close Ticket 
+END - YTS92032307 
+START - YTS92032306 - [URGENT - UAT] (188Asia)[RLUU-2442][UAT][188A][Group tickets]Batch tickets for next week rolling - 06/24/22 (Fri) 
+[OK] Create YTS92032306 to JSM 
+[Success] Update YTS92032306 option to JSM 
+[Success] YTS92032306 - change to In Progress 
+[Success] YTS92032306 - change to Complete Request 
+[Success] YTS92032306 - change to Close Ticket 
+END - YTS92032306 
+START - YTS92032315 - No Downtime Request for Production Deployment (188Asia) 28-June-2022 (Tuesday) 
+[OK] Create YTS92032315 to JSM 
+[Success] Update YTS92032315 option to JSM 
+[Success] YTS92032315 - change to In Progress 
+[Success] YTS92032315 - change to Complete Request 
+[Success] YTS92032315 - change to Close Ticket 
+END - YTS92032315 
+START - YTS92032319 - [URGENT - UAT] (188Asia)[RLUU-2445][UAT][188A]Create scheduler job for auto delete SBK live data in related table - 06/27/22 (Mon) 
+[OK] Create YTS92032319 to JSM 
+[Success] Update YTS92032319 option to JSM 
+[Success] YTS92032319 - change to In Progress 
+[Success] YTS92032319 - change to Complete Request 
+[Success] YTS92032319 - change to Close Ticket 
+END - YTS92032319 
+START - YTS92032320 - No Downtime Request for Production Deployment (SBK) 29-June-2022 (Wednesday) 
+[OK] Create YTS92032320 to JSM 
+[Success] Update YTS92032320 option to JSM 
+[Success] YTS92032320 - change to In Progress 
+[Success] YTS92032320 - change to Complete Request 
+[Success] YTS92032320 - change to Close Ticket 
+END - YTS92032320 
+START - YTS92032324 - [URGENT - PROD] (AgileSlots)[RLPU-3691][Hotfix][CAS][AgileSlot][DB][PIM-25523] Auto-Settle Job fails - 06/27/22 (Mon) 
+[OK] Create YTS92032324 to JSM 
+[Success] Update YTS92032324 option to JSM 
+[Success] YTS92032324 - change to In Progress 
+[Success] YTS92032324 - change to Complete Request 
+[Success] YTS92032324 - change to Close Ticket 
+END - YTS92032324 
+START - YTS92032327 - Delete empty partitions. table: WGR1.REPORTREVENUEBATCHARCHIVE 
+[OK] Create YTS92032327 to JSM 
+[Success] Update YTS92032327 option to JSM 
+[Success] YTS92032327 - change to In Progress 
+[Success] YTS92032327 - change to Complete Request 
+[Success] YTS92032327 - change to Close Ticket 
+END - YTS92032327 
+START - YTS92032330 - No Downtime Request for Production Deployment (188Asia) 29-June-2022 (Wednesday) 
+[OK] Create YTS92032330 to JSM 
+[Success] Update YTS92032330 option to JSM 
+[Success] YTS92032330 - change to In Progress 
+[Success] YTS92032330 - change to Complete Request 
+[Success] YTS92032330 - change to Close Ticket 
+END - YTS92032330 
+START - YTS92032334 - Delete empty partitions that row_num = 0 
+[OK] Create YTS92032334 to JSM 
+[Success] Update YTS92032334 option to JSM 
+[Success] YTS92032334 - change to In Progress 
+[Success] YTS92032334 - change to Complete Request 
+[Success] YTS92032334 - change to Close Ticket 
+END - YTS92032334 
+START - YTS92032335 - [P] Truncate table, TABLE name ACCWAGER188.OUTERTRANSACTION. 
+[OK] Create YTS92032335 to JSM 
+[Success] Update YTS92032335 option to JSM 
+[Success] YTS92032335 - change to In Progress 
+[Success] YTS92032335 - change to Complete Request 
+[Success] YTS92032335 - change to Close Ticket 
+END - YTS92032335 
+START - YTS92032337 - No Downtime Request for Production Deployment (AgileDeal) 30-June-2022 (Thursday) 
+[OK] Create YTS92032337 to JSM 
+[Success] Update YTS92032337 option to JSM 
+[Success] YTS92032337 - change to In Progress 
+[Success] YTS92032337 - change to Complete Request 
+[Success] YTS92032337 - change to Close Ticket 
+END - YTS92032337 
+START - YTS92032340 - Downtime Request for UAT Deployment (188Asia) 30-June-2022 (Thursday) 
+[OK] Create YTS92032340 to JSM 
+[Success] Update YTS92032340 option to JSM 
+[Success] YTS92032340 - change to In Progress 
+[Success] YTS92032340 - change to Complete Request 
+[Success] YTS92032340 - change to Close Ticket 
+END - YTS92032340 
+START - YTS92032341 - Enable the Schedule JOB for deleting SBK table live data 
+[OK] Create YTS92032341 to JSM 
+[Success] Update YTS92032341 option to JSM 
+[Success] YTS92032341 - change to In Progress 
+[Success] YTS92032341 - change to Complete Request 
+[Success] YTS92032341 - change to Close Ticket 
+END - YTS92032341 
+START - YTS92032343 - [URGENT - UAT and PROD] (188Asia)[RLPU-3693][UrgentRequest][CC1-2550] Affiliate Association/Disassociation - 06/29/22 (Wed) 
+[OK] Create YTS92032343 to JSM 
+[Success] Update YTS92032343 option to JSM 
+[Success] YTS92032343 - change to In Progress 
+[Success] YTS92032343 - change to Complete Request 
+[Success] YTS92032343 - change to Close Ticket 
+END - YTS92032343 
+START - YTS92032342 - [URGENT - UAT and PROD] (188Asia)[RLPU-3693][UrgentRequest][CC1-2550] Affiliate Association/Disassociation - 06/29/22 (Wed) 
+[OK] Create YTS92032342 to JSM 
+[Success] Update YTS92032342 option to JSM 
+[Success] YTS92032342 - change to In Progress 
+[Success] YTS92032342 - change to Complete Request 
+[Success] YTS92032342 - change to Close Ticket 
+END - YTS92032342 
+START - YTS92032344 - Downtime Request for UAT Deployment (SBK) 30-June-2022 (Thursday) 
+[OK] Create YTS92032344 to JSM 
+[Success] Update YTS92032344 option to JSM 
+[Success] YTS92032344 - change to In Progress 
+[Success] YTS92032344 - change to Complete Request 
+[Success] YTS92032344 - change to Close Ticket 
+END - YTS92032344 
+START - YTS92032346 - [URGENT - UAT] (SBK)[RLUU-2447][UAT Patch]J-GMM-DB117 (188PGMM) - ORA-00060: Deadlock detected - 06/30/22 (Thu) 
+[OK] Create YTS92032346 to JSM 
+[Success] Update YTS92032346 option to JSM 
+[Success] YTS92032346 - change to In Progress 
+[Success] YTS92032346 - change to Complete Request 
+[Success] YTS92032346 - change to Close Ticket 
+END - YTS92032346 
+START - YTS92032349 - SBK related tables redefine process [UAT] 
+[OK] Create YTS92032349 to JSM 
+[Success] Update YTS92032349 option to JSM 
+[Success] YTS92032349 - change to In Progress 
+[Success] YTS92032349 - change to Complete Request 
+[Success] YTS92032349 - change to Close Ticket 
+END - YTS92032349 
+START - YTS92032351 - [P][ACCWAGER188] Delete empty partitions that row_num = 0 
+[OK] Create YTS92032351 to JSM 
+[Success] Update YTS92032351 option to JSM 
+[Success] YTS92032351 - change to In Progress 
+[Success] YTS92032351 - change to Complete Request 
+[Success] YTS92032351 - change to Close Ticket 
+END - YTS92032351 
+START - YTS92032352 - For UAT CASHWAGER188 ARCH JOB test (set up the flag) - 20220630 
+[OK] Create YTS92032352 to JSM 
+[Success] Update YTS92032352 option to JSM 
+[Success] YTS92032352 - change to In Progress 
+[Success] YTS92032352 - change to Complete Request 
+[Success] YTS92032352 - change to Close Ticket 
+END - YTS92032352 
+START - YTS92032357 - Downtime Request for UAT Deployment (AgileSlots) 04-July-2022 (Monday) 
+[OK] Create YTS92032357 to JSM 
+[Success] Update YTS92032357 option to JSM 
+[Success] YTS92032357 - change to In Progress 
+[Success] YTS92032357 - change to Complete Request 
+[Success] YTS92032357 - change to Close Ticket 
+END - YTS92032357 
+START - YTS92032361 - [URGENT - UAT] (188Asia)[RLUU-2451][UAT][188A] Data Patch for bet status - 07/01/22 (Fri) 
+[OK] Create YTS92032361 to JSM 
+[Success] Update YTS92032361 option to JSM 
+[Success] YTS92032361 - change to In Progress 
+[Success] YTS92032361 - change to Complete Request 
+[Success] YTS92032361 - change to Close Ticket 
+END - YTS92032361 
+START - YTS92032366 - Downtime Request for UAT Deployment (SBK) 04-July-2022 (Monday) 
+[OK] Create YTS92032366 to JSM 
+[Success] Update YTS92032366 option to JSM 
+[Success] YTS92032366 - change to In Progress 
+[Success] YTS92032366 - change to Complete Request 
+[Success] YTS92032366 - change to Close Ticket 
+END - YTS92032366 
+START - YTS92032372 - Downtime Request for UAT Deployment (SBK) 04-July-2022 (Monday) 
+[OK] Create YTS92032372 to JSM 
+[Success] Update YTS92032372 option to JSM 
+[Success] YTS92032372 - change to In Progress 
+[Success] YTS92032372 - change to Complete Request 
+[Success] YTS92032372 - change to Close Ticket 
+END - YTS92032372 
+START - YTS92032374 - [PRD] Analyze WGR1's table 
+[OK] Create YTS92032374 to JSM 
+[Success] Update YTS92032374 option to JSM 
+[Success] YTS92032374 - change to In Progress 
+[Success] YTS92032374 - change to Complete Request 
+[Success] YTS92032374 - change to Close Ticket 
+END - YTS92032374 
+START - YTS92032376 - For UAT SBK related table cleanup and redifine task 
+[OK] Create YTS92032376 to JSM 
+[Success] Update YTS92032376 option to JSM 
+[Success] YTS92032376 - change to In Progress 
+[Success] YTS92032376 - change to Complete Request 
+[Success] YTS92032376 - change to Close Ticket 
+END - YTS92032376 
+START - YTS92032380 - No Downtime Request for Production Deployment (188Asia) 06-July-2022 (Wednesday) 
+[OK] Create YTS92032380 to JSM 
+[Success] Update YTS92032380 option to JSM 
+[Success] YTS92032380 - change to In Progress 
+[Success] YTS92032380 - change to Complete Request 
+[Success] YTS92032380 - change to Close Ticket 
+END - YTS92032380 
+START - YTS92032394 - [URGENT - UAT] (SBK)[RLUU-2464][UAT Patch] urgent tickets - 07/06/22 (Wed) 
+[OK] Create YTS92032394 to JSM 
+[Success] Update YTS92032394 option to JSM 
+[Success] YTS92032394 - change to In Progress 
+[Success] YTS92032394 - change to Complete Request 
+[Success] YTS92032394 - change to Close Ticket 
+END - YTS92032394 
+START - YTS92032395 - [URGENT - UAT and PROD] (NBG)[RLPU-3699][NBG][RLPU] Euro Jackpot 20220705 can't settle - 07/06/22 (Wed) 
+[OK] Create YTS92032395 to JSM 
+[Success] Update YTS92032395 option to JSM 
+[Success] YTS92032395 - change to In Progress 
+[Success] YTS92032395 - change to Complete Request 
+[Success] YTS92032395 - change to Close Ticket 
+END - YTS92032395 
+START - YTS92032400 - SSIS DB account need add permission 
+[OK] Create YTS92032400 to JSM 
+[Success] Update YTS92032400 option to JSM 
+[Success] YTS92032400 - change to In Progress 
+[Success] YTS92032400 - change to Complete Request 
+[Success] YTS92032400 - change to Close Ticket 
+END - YTS92032400 
+START - YTS92032296 - For UAT CASHWAGER188 ARCH JOB test (set up the flag) 
+[OK] Create YTS92032296 to JSM 
+[Success] Update YTS92032296 option to JSM 
+[Success] YTS92032296 - change to In Progress 
+[Success] YTS92032296 - change to Complete Request 
+[Success] YTS92032296 - change to Close Ticket 
+END - YTS92032296 
+START - YTS92032401 - Downtime Request for UAT Deployment (188Asia) 07-July-2022 (Thursday) 
+[OK] Create YTS92032401 to JSM 
+[Success] Update YTS92032401 option to JSM 
+[Success] YTS92032401 - change to In Progress 
+[Success] YTS92032401 - change to Complete Request 
+[Success] YTS92032401 - change to Close Ticket 
+END - YTS92032401 
+START - YTS92032402 - [URGENT - UAT] (SBK)[RLUU-2466][UAT Patch]Wager detail: Show incorrect void reason for bet builder bet 
+[OK] Create YTS92032402 to JSM 
+[Success] Update YTS92032402 option to JSM 
+[Success] YTS92032402 - change to In Progress 
+[Success] YTS92032402 - change to Complete Request 
+[Success] YTS92032402 - change to Close Ticket 
+END - YTS92032402 
+START - YTS92032404 - [URGENT - UAT] (188Asia)[RLUU-2467][188A] Add log for tracing CASHWAGER188 ARCH job fail  - 07/06/22 (Wed) 
+[OK] Create YTS92032404 to JSM 
+[Success] Update YTS92032404 option to JSM 
+[Success] YTS92032404 - change to In Progress 
+[Success] YTS92032404 - change to Complete Request 
+[Success] YTS92032404 - change to Close Ticket 
+END - YTS92032404 
+START - YTS92032405 - No Downtime Request for UAT Deployment (AgileDeal) 07-July-2022 (Thursday) 
+[OK] Create YTS92032405 to JSM 
+[Success] Update YTS92032405 option to JSM 
+[Success] YTS92032405 - change to In Progress 
+[Success] YTS92032405 - change to Complete Request 
+[Success] YTS92032405 - change to Close Ticket 
+END - YTS92032405 
+START - YTS92032401 - Downtime Request for UAT Deployment (188Asia) 07-July-2022 (Thursday) 
+[OK] Create YTS92032401 to JSM 
+[Success] Update YTS92032401 option to JSM 
+[Success] YTS92032401 - change to In Progress 
+[Success] YTS92032401 - change to Complete Request 
+[Success] YTS92032401 - change to Close Ticket 
+END - YTS92032401 
+START - YTS92032410 - [URGENT - UAT] (SBK)[RLUU-2468][UAT Patch][CSB-400] urgent tickets - 07/07/22 (Thu) 
+[OK] Create YTS92032410 to JSM 
+[Success] Update YTS92032410 option to JSM 
+[Success] YTS92032410 - change to In Progress 
+[Success] YTS92032410 - change to Complete Request 
+[Success] YTS92032410 - change to Close Ticket 
+END - YTS92032410 
+START - YTS92032412 - [URGENT - UAT] (AgileSlots)[RLUU-2471][Hotfix][CAS][AgileSlot][GroupTickets][DB] - 07/07/22 (Thu) 
+[OK] Create YTS92032412 to JSM 
+[Success] Update YTS92032412 option to JSM 
+[Success] YTS92032412 - change to In Progress 
+[Success] YTS92032412 - change to Complete Request 
+[Success] YTS92032412 - change to Close Ticket 
+END - YTS92032412 
+START - YTS92032415 - [URGENT - UAT] (NBG)[RLUU-2472][NBG][RLPU] Auto update draw status to unsettle when NBG internal settle fail - 07/07/22 (Thu) 
+[OK] Create YTS92032415 to JSM 
+[Success] Update YTS92032415 option to JSM 
+[Success] YTS92032415 - change to In Progress 
+[Success] YTS92032415 - change to Complete Request 
+[Success] YTS92032415 - change to Close Ticket 
+END - YTS92032415 
+START - YTS92032416 - [RTX] Migrate S盛世(P160) to 樂多彩(P168) 
+[OK] Create YTS92032416 to JSM 
+[Success] Update YTS92032416 option to JSM 
+[Success] YTS92032416 - change to In Progress 
+[Success] YTS92032416 - change to Complete Request 
+[Success] YTS92032416 - change to Close Ticket 
+END - YTS92032416 
+START - YTS92032421 - [URGENT - UAT] (SBK)[RLUU-2476][UAT Patch]Wager Detail / Wager Enquiry.etc: New Safe wager should show the same wording with Danger wager - 07/07/22 (Thu) 
+[OK] Create YTS92032421 to JSM 
+[Success] Update YTS92032421 option to JSM 
+[Success] YTS92032421 - change to In Progress 
+[Success] YTS92032421 - change to Complete Request 
+[Success] YTS92032421 - change to Close Ticket 
+END - YTS92032421 
+START - YTS92032427 - [URGENT - UAT] (188Asia)[RLUU-2479][188A] For tracing CASHWAGER188 ARCH job fail  - 07/06/22 (Wed) 
+[OK] Create YTS92032427 to JSM 
+[Success] Update YTS92032427 option to JSM 
+[Success] YTS92032427 - change to In Progress 
+[Success] YTS92032427 - change to Complete Request 
+[Success] YTS92032427 - change to Close Ticket 
+END - YTS92032427 
+START - YTS92032429 - [URGENT - UAT] (AgileDeal)[RLUU-2481][AgileDeal] Update FPC member limit preset profile in UAT - 07/08/22 (Fri) 
+[OK] Create YTS92032429 to JSM 
+[Success] Update YTS92032429 option to JSM 
+[Success] YTS92032429 - change to In Progress 
+[Success] YTS92032429 - change to Complete Request 
+[Success] YTS92032429 - change to Close Ticket 
+END - YTS92032429 
+START - YTS92032442 - [URGENT - UAT] (SBK)[RLUU-2484][UAT Patch][CSB-400] urgent tickets 
+[OK] Create YTS92032442 to JSM 
+[Success] Update YTS92032442 option to JSM 
+[Success] YTS92032442 - change to In Progress 
+[Success] YTS92032442 - change to Complete Request 
+[Success] YTS92032442 - change to Close Ticket 
+END - YTS92032442 
+START - YTS92032444 - [URGENT - UAT] (SBK)[RLUU-2484][UAT Patch][CSB-400] urgent tickets 
+[OK] Create YTS92032444 to JSM 
+[Success] Update YTS92032444 option to JSM 
+[Success] YTS92032444 - change to In Progress 
+[Success] YTS92032444 - change to Complete Request 
+[Success] YTS92032444 - change to Close Ticket 
+END - YTS92032444 
+START - YTS92032446 - [URGENT - UAT] (SBK)[RLUU-2485][UAT Patch][CSB-400] urgent tickets - 07/11/22 (Mon) 
+[OK] Create YTS92032446 to JSM 
+[Success] Update YTS92032446 option to JSM 
+[Success] YTS92032446 - change to In Progress 
+[Success] YTS92032446 - change to Complete Request 
+[Success] YTS92032446 - change to Close Ticket 
+END - YTS92032446 
+START - YTS92032447 - No Downtime Request for Production Deployment (188Asia) 12-July-2022 (Tuesday) 
+[OK] Create YTS92032447 to JSM 
+[Success] Update YTS92032447 option to JSM 
+[Success] YTS92032447 - change to In Progress 
+[Success] YTS92032447 - change to Complete Request 
+[Success] YTS92032447 - change to Close Ticket 
+END - YTS92032447 
+START - YTS92032452 - [URGENT - UAT] (SBK)[RLUU-2489][UAT PATCH] BetBuilder and Danger 2.0 urgent ticket - 07/11/22 (Mon) 
+[OK] Create YTS92032452 to JSM 
+[Success] Update YTS92032452 option to JSM 
+[Success] YTS92032452 - change to In Progress 
+[Success] YTS92032452 - change to Complete Request 
+[Success] YTS92032452 - change to Close Ticket 
+END - YTS92032452 
+START - YTS92032453 - No Downtime Request for Production Deployment (AgileDeal) 14-July-2022 (Thursday) 
+[OK] Create YTS92032453 to JSM 
+[Success] Update YTS92032453 option to JSM 
+[Success] YTS92032453 - change to In Progress 
+[Success] YTS92032453 - change to Complete Request 
+[Success] YTS92032453 - change to Close Ticket 
+END - YTS92032453 
+START - YTS92032455 - [URGENT - UAT] (188Asia)[RLUU-2490][UAT][188A][Group tickets] - 07/11/22 (Mon) 
+[OK] Create YTS92032455 to JSM 
+[Success] Update YTS92032455 option to JSM 
+[Success] YTS92032455 - change to In Progress 
+[Success] YTS92032455 - change to Complete Request 
+[Success] YTS92032455 - change to Close Ticket 
+END - YTS92032455 
+START - YTS92032457 - 回覆: Downtime Request for Production Deployment (AgileSlots, SBK) 12-July-2022 and 14-July-2022  (Tuesday, Thursday) 
+[OK] Create YTS92032457 to JSM 
+[Success] Update YTS92032457 option to JSM 
+[Success] YTS92032457 - change to In Progress 
+[Success] YTS92032457 - change to Complete Request 
+[Success] YTS92032457 - change to Close Ticket 
+END - YTS92032457 
+START - YTS92032461 - RE: Downtime Request for Production Deployment (AgileSlots, SBK) 12-July-2022 and 14-July-2022  (Tuesday, Thursday) 
+[OK] Create YTS92032461 to JSM 
+[Success] Update YTS92032461 option to JSM 
+[Success] YTS92032461 - change to In Progress 
+[Success] YTS92032461 - change to Complete Request 
+[Success] YTS92032461 - change to Close Ticket 
+END - YTS92032461 
+START - YTS92032463 - No Downtime Request for Production Deployment (188Asia) 13-July-2022 (Wednesday) 
+[OK] Create YTS92032463 to JSM 
+[Success] Update YTS92032463 option to JSM 
+[Success] YTS92032463 - change to In Progress 
+[Success] YTS92032463 - change to Complete Request 
+[Success] YTS92032463 - change to Close Ticket 
+END - YTS92032463 
+START - YTS92032471 - Downtime Request for UAT Deployment (188Asia) 14-July-2022 (Thursday) 
+[OK] Create YTS92032471 to JSM 
+[Success] Update YTS92032471 option to JSM 
+[Success] YTS92032471 - change to In Progress 
+[Success] YTS92032471 - change to Complete Request 
+[Success] YTS92032471 - change to Close Ticket 
+END - YTS92032471 
+START - YTS92032472 - Missing script at UAT pra DB 
+[OK] Create YTS92032472 to JSM 
+[Success] Update YTS92032472 option to JSM 
+[Success] YTS92032472 - change to In Progress 
+[Success] YTS92032472 - change to Complete Request 
+[Success] YTS92032472 - change to Close Ticket 
+END - YTS92032472 
+START - YTS92032475 - [URGENT - PROD] (SBK)[RLPU-3703][Hotfix][CSB-400]Data Patch for SBK Member PAS setting - 07/14/22 (Tue) 
+[OK] Create YTS92032475 to JSM 
+[Success] Update YTS92032475 option to JSM 
+[Success] YTS92032475 - change to In Progress 
+[Success] YTS92032475 - change to Complete Request 
+[Success] YTS92032475 - change to Close Ticket 
+END - YTS92032475 
+START - YTS92032477 - [P] [RLPS-1520-1] additional packages for RLPS-1520 
+[OK] Create YTS92032477 to JSM 
+[Success] Update YTS92032477 option to JSM 
+[Success] YTS92032477 - change to In Progress 
+[Success] YTS92032477 - change to Complete Request 
+[Success] YTS92032477 - change to Close Ticket 
+END - YTS92032477 
+START - YTS92032478 - [PRD] To shrink space of wgr1 tables 
+[OK] Create YTS92032478 to JSM 
+[Success] Update YTS92032478 option to JSM 
+[Success] YTS92032478 - change to In Progress 
+[Success] YTS92032478 - change to Complete Request 
+[Success] YTS92032478 - change to Close Ticket 
+END - YTS92032478 
+START - YTS92032484 - [URGENT - PROD][SBK][RLPU-3706][Hotfix][SBK][GMM] Patch CG ML1-ML5 Competitions with Bet Builder 
+[OK] Create YTS92032484 to JSM 
+[Success] Update YTS92032484 option to JSM 
+[Success] YTS92032484 - change to In Progress 
+[Success] YTS92032484 - change to Complete Request 
+[Success] YTS92032484 - change to Close Ticket 
+END - YTS92032484 
+START - YTS92032484 - [URGENT - PROD][SBK][RLPU-3706][Hotfix][SBK][GMM] Patch CG ML1-ML5 Competitions with Bet Builder 
+[OK] Create YTS92032484 to JSM 
+[Success] Update YTS92032484 option to JSM 
+[Success] YTS92032484 - change to In Progress 
+[Success] YTS92032484 - change to Complete Request 
+[Success] YTS92032484 - change to Close Ticket 
+END - YTS92032484 
+START - YTS92032485 - [URGENT - UAT] (188Asia)[RLUU-2492][UAT][188A]Group Tickets - 07/15/22 (Fri) 
+[OK] Create YTS92032485 to JSM 
+[Success] Update YTS92032485 option to JSM 
+[Success] YTS92032485 - change to In Progress 
+[Success] YTS92032485 - change to Complete Request 
+[Success] YTS92032485 - change to Close Ticket 
+END - YTS92032485 
+START - YTS92032496 - No Downtime Request for Production Deployment (188Asia) 19-July-2022 (Tuesday) 
+[OK] Create YTS92032496 to JSM 
+[Success] Update YTS92032496 option to JSM 
+[Success] YTS92032496 - change to In Progress 
+[Success] YTS92032496 - change to Complete Request 
+[Success] YTS92032496 - change to Close Ticket 
+END - YTS92032496 
+START - YTS92032500 - No Downtime Request for Production Deployment (188Asia) 20-July-2022 (Wednesday) 
+[OK] Create YTS92032500 to JSM 
+[Success] Update YTS92032500 option to JSM 
+[Success] YTS92032500 - change to In Progress 
+[Success] YTS92032500 - change to Complete Request 
+[Success] YTS92032500 - change to Close Ticket 
+END - YTS92032500 
+START - YTS92032505 - [URGENT - UAT] (188Asia)[RLUU-2495][UAT][188A][188 AFF][BO] Settlement status Page cannot be opened - 07/19/22 (Tue) 
+[OK] Create YTS92032505 to JSM 
+[Success] Update YTS92032505 option to JSM 
+[Success] YTS92032505 - change to In Progress 
+[Success] YTS92032505 - change to Complete Request 
+[Success] YTS92032505 - change to Close Ticket 
+END - YTS92032505 
+START - YTS92032511 - No Downtime Request for UAT Deployment (SBK) 21-July-2022 (Thursday) 
+[OK] Create YTS92032511 to JSM 
+[Success] Update YTS92032511 option to JSM 
+[Success] YTS92032511 - change to In Progress 
+[Success] YTS92032511 - change to Complete Request 
+[Success] YTS92032511 - change to Close Ticket 
+END - YTS92032511 
+START - YTS92032512 - [PRD] To shrink space of wgr1 tables 
+[OK] Create YTS92032512 to JSM 
+[Success] Update YTS92032512 option to JSM 
+[Success] YTS92032512 - change to In Progress 
+[Success] YTS92032512 - change to Complete Request 
+[Success] YTS92032512 - change to Close Ticket 
+END - YTS92032512 
+START - YTS92032514 - No Downtime Request for Production Deployment (188Asia) 21-July-2022 (Thursday) 
+[OK] Create YTS92032514 to JSM 
+[Success] Update YTS92032514 option to JSM 
+[Success] YTS92032514 - change to In Progress 
+[Success] YTS92032514 - change to Complete Request 
+[Success] YTS92032514 - change to Close Ticket 
+END - YTS92032514 
+START - YTS92032515 - Downtime Request for UAT Deployment (188Asia) 21-July-2022 (Thursday) 
+[OK] Create YTS92032515 to JSM 
+[Success] Update YTS92032515 option to JSM 
+[Success] YTS92032515 - change to In Progress 
+[Success] YTS92032515 - change to Complete Request 
+[Success] YTS92032515 - change to Close Ticket 
+END - YTS92032515 
+START - YTS92032514 - No Downtime Request for Production Deployment (188Asia) 21-July-2022 (Thursday) 
+[OK] Create YTS92032514 to JSM 
+[Success] Update YTS92032514 option to JSM 
+[Success] YTS92032514 - change to In Progress 
+[Success] YTS92032514 - change to Complete Request 
+[Success] YTS92032514 - change to Close Ticket 
+END - YTS92032514 
+START - YTS92032522 - [URGENT - UAT] (188Asia)[RLUU-2501][UAT][188A][Group tickets] - 07/21/22 (Thu) 
+[OK] Create YTS92032522 to JSM 
+[Success] Update YTS92032522 option to JSM 
+[Success] YTS92032522 - change to In Progress 
+[Success] YTS92032522 - change to Complete Request 
+[Success] YTS92032522 - change to Close Ticket 
+END - YTS92032522 
+START - YTS92032527 - No Downtime Request for Production Deployment (AgileSlots) 26-July-2022 (Tuesday) 
+[OK] Create YTS92032527 to JSM 
+[Success] Update YTS92032527 option to JSM 
+[Success] YTS92032527 - change to In Progress 
+[Success] YTS92032527 - change to Complete Request 
+[Success] YTS92032527 - change to Close Ticket 
+END - YTS92032527 
+START - YTS92032531 - No Downtime Request for Production Deployment (SBK) 26-July-2022 (Tuesday) 
+[OK] Create YTS92032531 to JSM 
+[Success] Update YTS92032531 option to JSM 
+[Success] YTS92032531 - change to In Progress 
+[Success] YTS92032531 - change to Complete Request 
+[Success] YTS92032531 - change to Close Ticket 
+END - YTS92032531 
+START - YTS92032534 - [U/P][Hotfix][RLPU- 3711][PIM-25780] GMM - Data Access Error in SBC Event Mapping Page 
+[OK] Create YTS92032534 to JSM 
+[Success] Update YTS92032534 option to JSM 
+[Success] YTS92032534 - change to In Progress 
+[Success] YTS92032534 - change to Complete Request 
+[Success] YTS92032534 - change to Close Ticket 
+END - YTS92032534 
+START - YTS92032539 - [URGENT - UAT] (188Asia)[RLUU-2506][UAT][188A][Group tickets] - 07/25/22 (Mon) 
+[OK] Create YTS92032539 to JSM 
+[Success] Update YTS92032539 option to JSM 
+[Success] YTS92032539 - change to In Progress 
+[Success] YTS92032539 - change to Complete Request 
+[Success] YTS92032539 - change to Close Ticket 
+END - YTS92032539 
+START - YTS92032540 - No Downtime Request for Production Deployment (188Asia) 26-July-2022 (Tuesday) 
+[OK] Create YTS92032540 to JSM 
+[Success] Update YTS92032540 option to JSM 
+[Success] YTS92032540 - change to In Progress 
+[Success] YTS92032540 - change to Complete Request 
+[Success] YTS92032540 - change to Close Ticket 
+END - YTS92032540 
+START - YTS92032544 - [UATPATCH][RLUU-2507][CSB-643]Bet Builder Can Report changes 
+[OK] Create YTS92032544 to JSM 
+[Success] Update YTS92032544 option to JSM 
+[Success] YTS92032544 - change to In Progress 
+[Success] YTS92032544 - change to Complete Request 
+[Success] YTS92032544 - change to Close Ticket 
+END - YTS92032544 
+START - YTS92032549 - [URGENT - UAT] (SBK)[RLUU-2508][UAT PATCH] [CRDT-4844][CSB-400] CS Team request for tool page deployment - 07/26/22 (Tue) 
+[OK] Create YTS92032549 to JSM 
+[Success] Update YTS92032549 option to JSM 
+[Success] YTS92032549 - change to In Progress 
+[Success] YTS92032549 - change to Complete Request 
+[Success] YTS92032549 - change to Close Ticket 
+END - YTS92032549 
+START - YTS92032548 - No Downtime Request for Production Deployment (188Asia) 27-July-2022 (Wednesday) 
+[OK] Create YTS92032548 to JSM 
+[Success] Update YTS92032548 option to JSM 
+[Success] YTS92032548 - change to In Progress 
+[Success] YTS92032548 - change to Complete Request 
+[Success] YTS92032548 - change to Close Ticket 
+END - YTS92032548 
+START - YTS92032552 - No Downtime Request for Production Deployment (188Asia) 28-July-2022 (Thursday) 
+[OK] Create YTS92032552 to JSM 
+[Success] Update YTS92032552 option to JSM 
+[Success] YTS92032552 - change to In Progress 
+[Success] YTS92032552 - change to Complete Request 
+[Success] YTS92032552 - change to Close Ticket 
+END - YTS92032552 
+START - YTS92032555 - [URGENT - UAT] (188Asia)[RLUU-2510][UrgentRequest][CC1-2610] Affiliate Association/Disassociation/Migration - 07/27/22 (Wed) 
+[OK] Create YTS92032555 to JSM 
+[Success] Update YTS92032555 option to JSM 
+[Success] YTS92032555 - change to In Progress 
+[Success] YTS92032555 - change to Complete Request 
+[Success] YTS92032555 - change to Close Ticket 
+END - YTS92032555 
+START - YTS92032555 - [URGENT - UAT] (188Asia)[RLUU-2510][UrgentRequest][CC1-2610] Affiliate Association/Disassociation/Migration - 07/27/22 (Wed) 
+[OK] Create YTS92032555 to JSM 
+[Success] Update YTS92032555 option to JSM 
+[Success] YTS92032555 - change to In Progress 
+[Success] YTS92032555 - change to Complete Request 
+[Success] YTS92032555 - change to Close Ticket 
+END - YTS92032555 
+START - YTS92032556 - Downtime Request for UAT Deployment (188Asia) 28-July-2022 (Thursday) 
+[OK] Create YTS92032556 to JSM 
+[Success] Update YTS92032556 option to JSM 
+[Success] YTS92032556 - change to In Progress 
+[Success] YTS92032556 - change to Complete Request 
+[Success] YTS92032556 - change to Close Ticket 
+END - YTS92032556 
+START - YTS92032560 - Downtime Request for UAT Deployment (SBK) 28-July-2022 (Thursday) 
+[OK] Create YTS92032560 to JSM 
+[Success] Update YTS92032560 option to JSM 
+[Success] YTS92032560 - change to In Progress 
+[Success] YTS92032560 - change to Complete Request 
+[Success] YTS92032560 - change to Close Ticket 
+END - YTS92032560 
+START - YTS92032566 - [URGENT - UAT and PROD] (SBK)[RLPU-3716][P/U][Hotfix][SBK][EC][PIM-25807] Mollybet Mapping Still Checks Competition Name 
+[OK] Create YTS92032566 to JSM 
+[Success] Update YTS92032566 option to JSM 
+[Success] YTS92032566 - change to In Progress 
+[Success] YTS92032566 - change to Complete Request 
+[Success] YTS92032566 - change to Close Ticket 
+END - YTS92032566 
+START - YTS92032568 - [URGENT - UAT] (SBK)[RLUU-2512][UAT][Patch][SBK][EC][PIM-25807] Mollybet Mapping Still Checks Competition Name 
+[OK] Create YTS92032568 to JSM 
+[Success] Update YTS92032568 option to JSM 
+[Success] YTS92032568 - change to In Progress 
+[Success] YTS92032568 - change to Complete Request 
+[Success] YTS92032568 - change to Close Ticket 
+END - YTS92032568 
+START - YTS92032570 - [URGENT - UAT and PROD] (SBK)[RLUU-2512][UAT][Patch][SBK][EC][PIM-25807] Mollybet Mapping Still Checks Competition Name 
+[OK] Create YTS92032570 to JSM 
+[Success] Update YTS92032570 option to JSM 
+[Success] YTS92032570 - change to In Progress 
+[Success] YTS92032570 - change to Complete Request 
+[Success] YTS92032570 - change to Close Ticket 
+END - YTS92032570 
+START - YTS92032571 - [URGENT - UAT] (188Asia)[RLUU-2513][UAT][188A][Group tickets] - 07/28/22 (Thu) 
+[OK] Create YTS92032571 to JSM 
+[Success] Update YTS92032571 option to JSM 
+[Success] YTS92032571 - change to In Progress 
+[Success] YTS92032571 - change to Complete Request 
+[Success] YTS92032571 - change to Close Ticket 
+END - YTS92032571 
+START - YTS92032570 - [URGENT - UAT and PROD] (SBK)[RLUU-2512][UAT][Patch][SBK][EC][PIM-25807] Mollybet Mapping Still Checks Competition Name 
+[OK] Create YTS92032570 to JSM 
+[Success] Update YTS92032570 option to JSM 
+[Success] YTS92032570 - change to In Progress 
+[Success] YTS92032570 - change to Complete Request 
+[Success] YTS92032570 - change to Close Ticket 
+END - YTS92032570 
+START - YTS92032572 - [RTX] Create new partner P100HQ on UAT 
+[OK] Create YTS92032572 to JSM 
+[Success] Update YTS92032572 option to JSM 
+[Success] YTS92032572 - change to In Progress 
+[Success] YTS92032572 - change to Complete Request 
+[Success] YTS92032572 - change to Close Ticket 
+END - YTS92032572 
+START - YTS92032574 - DSA188ARCH Vault Data Request 
+[OK] Create YTS92032574 to JSM 
+[Success] Update YTS92032574 option to JSM 
+[Success] YTS92032574 - change to In Progress 
+[Success] YTS92032574 - change to Complete Request 
+[Success] YTS92032574 - change to Close Ticket 
+END - YTS92032574 
+START - YTS92032576 - No Downtime Request for UAT Deployment (AgileSlots) 01-August-2022 (Monday) 
+[OK] Create YTS92032576 to JSM 
+[Success] Update YTS92032576 option to JSM 
+[Success] YTS92032576 - change to In Progress 
+[Success] YTS92032576 - change to Complete Request 
+[Success] YTS92032576 - change to Close Ticket 
+END - YTS92032576 
+START - YTS92032581 - [URGENT - UAT] (188Asia)[RLUU-2515][UAT][188A][Group tickets]Batch tickets for next week rolling - 07/29/22 (Fri) 
+[OK] Create YTS92032581 to JSM 
+[Success] Update YTS92032581 option to JSM 
+[Success] YTS92032581 - change to In Progress 
+[Success] YTS92032581 - change to Complete Request 
+[Success] YTS92032581 - change to Close Ticket 
+END - YTS92032581 
+START - YTS92032590 - No Downtime Request for Production Deployment (188Asia) 02-August-2022 (Tuesday) 
+[OK] Create YTS92032590 to JSM 
+[Success] Update YTS92032590 option to JSM 
+[Success] YTS92032590 - change to In Progress 
+[Success] YTS92032590 - change to Complete Request 
+[Success] YTS92032590 - change to Close Ticket 
+END - YTS92032590 
+START - YTS92032594 - [URGENT - UAT] (188Asia)[RLUU-2516][UrgentRequest][QT-40058][CC1-2601][CanReport][Function] Run canreport job fail - 08/01/22 (Mon) 
+[OK] Create YTS92032594 to JSM 
+[Success] Update YTS92032594 option to JSM 
+[Success] YTS92032594 - change to In Progress 
+[Success] YTS92032594 - change to Complete Request 
+[Success] YTS92032594 - change to Close Ticket 
+END - YTS92032594 
+START - YTS92032596 - [PROD][GMM] rebuild index and update tablespace name 
+[OK] Create YTS92032596 to JSM 
+[Success] Update YTS92032596 option to JSM 
+[Success] YTS92032596 - change to In Progress 
+[Success] YTS92032596 - change to Complete Request 
+[Success] YTS92032596 - change to Close Ticket 
+END - YTS92032596 
+START - YTS92032600 - [URGENT - PROD][RLPU-3718] Bet Builder Open to Public DSA Module 
+[OK] Create YTS92032600 to JSM 
+[Success] Update YTS92032600 option to JSM 
+[Success] YTS92032600 - change to In Progress 
+[Success] YTS92032600 - change to Complete Request 
+[Success] YTS92032600 - change to Close Ticket 
+END - YTS92032600 
+START - YTS92032607 - No Downtime Request for Production Deployment (188Asia) 03-August-2022 (Wednesday) 
+[OK] Create YTS92032607 to JSM 
+[Success] Update YTS92032607 option to JSM 
+[Success] YTS92032607 - change to In Progress 
+[Success] YTS92032607 - change to Complete Request 
+[Success] YTS92032607 - change to Close Ticket 
+END - YTS92032607 
+START - YTS92032615 - Downtime Request for UAT Deployment (RTX) 04-August-2022 (Thursday) 
+[OK] Create YTS92032615 to JSM 
+[Success] Update YTS92032615 option to JSM 
+[Success] YTS92032615 - change to In Progress 
+[Success] YTS92032615 - change to Complete Request 
+[Success] YTS92032615 - change to Close Ticket 
+END - YTS92032615 
+START - YTS92032611 - No Downtime Production System Maintenance (SBK) - 03rd August 2022 (Wednesday) 
+[OK] Create YTS92032611 to JSM 
+[Success] Update YTS92032611 option to JSM 
+[Success] YTS92032611 - change to In Progress 
+[Success] YTS92032611 - change to Complete Request 
+[Success] YTS92032611 - change to Close Ticket 
+END - YTS92032611 
+START - YTS92032616 - Downtime Request for UAT Deployment (SBK) 04-August-2022 (Thursday) 
+[OK] Create YTS92032616 to JSM 
+[Success] Update YTS92032616 option to JSM 
+[Success] YTS92032616 - change to In Progress 
+[Success] YTS92032616 - change to Complete Request 
+[Success] YTS92032616 - change to Close Ticket 
+END - YTS92032616 
+START - YTS92032296 - For UAT CASHWAGER188 ARCH JOB test (set up the flag) 
+[OK] Create YTS92032296 to JSM 
+[Success] Update YTS92032296 option to JSM 
+[Success] YTS92032296 - change to In Progress 
+[Success] YTS92032296 - change to Complete Request 
+[Success] YTS92032296 - change to Close Ticket 
+END - YTS92032296 
+START - YTS92032611 - No Downtime Production System Maintenance (SBK) - 03rd August 2022 (Wednesday) 
+[OK] Create YTS92032611 to JSM 
+[Success] Update YTS92032611 option to JSM 
+[Success] YTS92032611 - change to In Progress 
+[Success] YTS92032611 - change to Complete Request 
+[Success] YTS92032611 - change to Close Ticket 
+END - YTS92032611 
+START - YTS92032621 - Downtime Request for UAT Deployment (188Asia) 04-August-2022 (Thursday) 
+[OK] Create YTS92032621 to JSM 
+[Success] Update YTS92032621 option to JSM 
+[Success] YTS92032621 - change to In Progress 
+[Success] YTS92032621 - change to Complete Request 
+[Success] YTS92032621 - change to Close Ticket 
+END - YTS92032621 
+START - YTS92032620 - [URGENT - UAT] (188Asia)[RLUU-2519][UAT][188A][Group tickets] - 08/03/22 (Wed) 
+[OK] Create YTS92032620 to JSM 
+[Success] Update YTS92032620 option to JSM 
+[Success] YTS92032620 - change to In Progress 
+[Success] YTS92032620 - change to Complete Request 
+[Success] YTS92032620 - change to Close Ticket 
+END - YTS92032620 
+START - YTS92032626 - [PROD][HOTFIX][RLPU-3719][IDP-7516][SBK] Archival job got error when call NTAB 
+[OK] Create YTS92032626 to JSM 
+[Success] Update YTS92032626 option to JSM 
+[Success] YTS92032626 - change to In Progress 
+[Success] YTS92032626 - change to Complete Request 
+[Success] YTS92032626 - change to Close Ticket 
+END - YTS92032626 
+START - YTS92032616 - Downtime Request for UAT Deployment (SBK) 04-August-2022 (Thursday) 
+[OK] Create YTS92032616 to JSM 
+[Success] Update YTS92032616 option to JSM 
+[Success] YTS92032616 - change to In Progress 
+[Success] YTS92032616 - change to Complete Request 
+[Success] YTS92032616 - change to Close Ticket 
+END - YTS92032616 
+START - YTS92032628 - [URGENT - UAT and PROD] (188Asia)[RLPU-3720][Hotfix][188A][188 AFF][BO] Paid Amount and Date are not updated in Commission Report - 08/04/22 (Thu) 
+[OK] Create YTS92032628 to JSM 
+[Success] Update YTS92032628 option to JSM 
+[Success] YTS92032628 - change to In Progress 
+[Success] YTS92032628 - change to Complete Request 
+[Success] YTS92032628 - change to Close Ticket 
+END - YTS92032628 
+START - YTS92032634 - [URGENT - UAT] (188Asia)[RLUU-2521][UAT][188A][Group tickets] - 08/05/22 (Fri) 
+[OK] Create YTS92032634 to JSM 
+[Success] Update YTS92032634 option to JSM 
+[Success] YTS92032634 - change to In Progress 
+[Success] YTS92032634 - change to Complete Request 
+[Success] YTS92032634 - change to Close Ticket 
+END - YTS92032634 
+START - YTS92032634 - [URGENT - UAT] (188Asia)[RLUU-2521][UAT][188A][Group tickets] - 08/05/22 (Fri) 
+[OK] Create YTS92032634 to JSM 
+[Success] Update YTS92032634 option to JSM 
+[Success] YTS92032634 - change to In Progress 
+[Success] YTS92032634 - change to Complete Request 
+[Success] YTS92032634 - change to Close Ticket 
+END - YTS92032634 
+START - YTS92032638 - No Downtime Request for UAT 2 Deployment (AgileDeal) 08-August-2022 (Monday) 
+[OK] Create YTS92032638 to JSM 
+[Success] Update YTS92032638 option to JSM 
+[Success] YTS92032638 - change to In Progress 
+[Success] YTS92032638 - change to Complete Request 
+[Success] YTS92032638 - change to Close Ticket 
+END - YTS92032638 
+START - YTS92032646 - DB deadlock trc log request 
+[OK] Create YTS92032646 to JSM 
+[Success] Update YTS92032646 option to JSM 
+[Success] YTS92032646 - change to In Progress 
+[Success] YTS92032646 - change to Complete Request 
+[Success] YTS92032646 - change to Close Ticket 
+END - YTS92032646 
+START - YTS92032657 - No Downtime Request for Production Deployment (188Asia) 10-August-2022 (Wednesday) 
+[OK] Create YTS92032657 to JSM 
+[Success] Update YTS92032657 option to JSM 
+[Success] YTS92032657 - change to In Progress 
+[Success] YTS92032657 - change to Complete Request 
+[Success] YTS92032657 - change to Close Ticket 
+END - YTS92032657 
+START - YTS92032657 - No Downtime Request for Production Deployment (188Asia) 10-August-2022 (Wednesday) 
+[OK] Create YTS92032657 to JSM 
+[Success] Update YTS92032657 option to JSM 
+[Success] YTS92032657 - change to In Progress 
+[Success] YTS92032657 - change to Complete Request 
+[Success] YTS92032657 - change to Close Ticket 
+END - YTS92032657 
+START - YTS92032663 - Downtime Request for UAT Deployment (188Asia) 11-August-2022 (Thursday) 
+[OK] Create YTS92032663 to JSM 
+[Success] Update YTS92032663 option to JSM 
+[Success] YTS92032663 - change to In Progress 
+[Success] YTS92032663 - change to Complete Request 
+[Success] YTS92032663 - change to Close Ticket 
+END - YTS92032663 
+START - YTS92032664 - Downtime Request for UAT Deployment (SBK) 11-August-2022 (Thursday) 
+[OK] Create YTS92032664 to JSM 
+[Success] Update YTS92032664 option to JSM 
+[Success] YTS92032664 - change to In Progress 
+[Success] YTS92032664 - change to Complete Request 
+[Success] YTS92032664 - change to Close Ticket 
+END - YTS92032664 
+START - YTS92032665 - No Downtime Request for UAT Deployment (NBG) 11-August-2022 (Thursday) 
+[OK] Create YTS92032665 to JSM 
+[Success] Update YTS92032665 option to JSM 
+[Success] YTS92032665 - change to In Progress 
+[Success] YTS92032665 - change to Complete Request 
+[Success] YTS92032665 - change to Close Ticket 
+END - YTS92032665 
+START - YTS92032683 - For PROD SBK related table CASHWAGER188.SWTXNSBKEXTEND cleanup and redifine task 
+[OK] Create YTS92032683 to JSM 
+[Success] Update YTS92032683 option to JSM 
+[Success] YTS92032683 - change to In Progress 
+[Success] YTS92032683 - change to Complete Request 
+[Success] YTS92032683 - change to Close Ticket 
+END - YTS92032683 
+START - YTS92032685 - [URGENT - UAT] (188Asia)[RLUU-2526][UAT][188A][Group tickets] - 08/12/22 (Fri) 
+[OK] Create YTS92032685 to JSM 
+[Success] Update YTS92032685 option to JSM 
+[Success] YTS92032685 - change to In Progress 
+[Success] YTS92032685 - change to Complete Request 
+[Success] YTS92032685 - change to Close Ticket 
+END - YTS92032685 
+START - YTS92032684 - [URGENT - UAT] (188Asia)[RLUU-2526][UAT][188A][Group tickets] - 08/12/22 (Fri) 
+[OK] Create YTS92032684 to JSM 
+[Success] Update YTS92032684 option to JSM 
+[Success] YTS92032684 - change to In Progress 
+[Success] YTS92032684 - change to Complete Request 
+[Success] YTS92032684 - change to Close Ticket 
+END - YTS92032684 
+START - YTS92032687 - [URGENT - UAT] (188Asia)[RLUU-2527][UAT][188A][Group tickets] - 08/12/22 (Fri) 
+[OK] Create YTS92032687 to JSM 
+[Success] Update YTS92032687 option to JSM 
+[Success] YTS92032687 - change to In Progress 
+[Success] YTS92032687 - change to Complete Request 
+[Success] YTS92032687 - change to Close Ticket 
+END - YTS92032687 
+START - YTS92032689 - [URGENT - UAT] (188Asia)[RLUU-2528][UAT][188A][Group tickets] - 08/12/22 (Fri) 
+[OK] Create YTS92032689 to JSM 
+[Success] Update YTS92032689 option to JSM 
+[Success] YTS92032689 - change to In Progress 
+[Success] YTS92032689 - change to Complete Request 
+[Success] YTS92032689 - change to Close Ticket 
+END - YTS92032689 
+START - YTS92032699 - [URGENT - UAT] (188Asia)[RLUU-2529][UAT][188A][Group tickets] - 08/15/22 (Mon) 
+[OK] Create YTS92032699 to JSM 
+[Success] Update YTS92032699 option to JSM 
+[Success] YTS92032699 - change to In Progress 
+[Success] YTS92032699 - change to Complete Request 
+[Success] YTS92032699 - change to Close Ticket 
+END - YTS92032699 
+START - YTS92032697 - No Downtime Request for Production Deployment (188Asia) 16-August-2022 (Tuesday) 
+[OK] Create YTS92032697 to JSM 
+[Success] Update YTS92032697 option to JSM 
+[Success] YTS92032697 - change to In Progress 
+[Success] YTS92032697 - change to Complete Request 
+[Success] YTS92032697 - change to Close Ticket 
+END - YTS92032697 
+START - YTS92032701 - Move live data for SBK related table to Archive db 
+[OK] Create YTS92032701 to JSM 
+[Success] Update YTS92032701 option to JSM 
+[Success] YTS92032701 - change to In Progress 
+[Success] YTS92032701 - change to Complete Request 
+[Success] YTS92032701 - change to Close Ticket 
+END - YTS92032701 
+START - YTS92032702 - No Downtime Request for Production Deployment (188Asia) 17-August-2022 (Wednesday) 
+[OK] Create YTS92032702 to JSM 
+[Success] Update YTS92032702 option to JSM 
+[Success] YTS92032702 - change to In Progress 
+[Success] YTS92032702 - change to Complete Request 
+[Success] YTS92032702 - change to Close Ticket 
+END - YTS92032702 
+START - YTS92032705 - [URGENT - UAT] (188Asia)[RLUU-2530][UAT][188A] Data Patch - 08/16/22 (Tue) 
+[OK] Create YTS92032705 to JSM 
+[Success] Update YTS92032705 option to JSM 
+[Success] YTS92032705 - change to In Progress 
+[Success] YTS92032705 - change to Complete Request 
+[Success] YTS92032705 - change to Close Ticket 
+END - YTS92032705 
+START - YTS92032709 - No Downtime Request for UAT Deployment (AgileDeal) 17-August-2022 (Wednesday) 
+[OK] Create YTS92032709 to JSM 
+[Success] Update YTS92032709 option to JSM 
+[Success] YTS92032709 - change to In Progress 
+[Success] YTS92032709 - change to Complete Request 
+[Success] YTS92032709 - change to Close Ticket 
+END - YTS92032709 
+START - YTS92032715 - No Downtime Request for Production Deployment (188Asia) 18-August-2022 (Thursday) 
+[OK] Create YTS92032715 to JSM 
+[Success] Update YTS92032715 option to JSM 
+[Success] YTS92032715 - change to In Progress 
+[Success] YTS92032715 - change to Complete Request 
+[Success] YTS92032715 - change to Close Ticket 
+END - YTS92032715 
+START - YTS92032716 - Downtime Request for UAT Deployment (188Asia) 18-August-2022 (Thursday) 
+[OK] Create YTS92032716 to JSM 
+[Success] Update YTS92032716 option to JSM 
+[Success] YTS92032716 - change to In Progress 
+[Success] YTS92032716 - change to Complete Request 
+[Success] YTS92032716 - change to Close Ticket 
+END - YTS92032716 
+START - YTS92032720 - Downtime Request for UAT Deployment (SBK) 18-August-2022 (Thursday) 
+[OK] Create YTS92032720 to JSM 
+[Success] Update YTS92032720 option to JSM 
+[Success] YTS92032720 - change to In Progress 
+[Success] YTS92032720 - change to Complete Request 
+[Success] YTS92032720 - change to Close Ticket 
+END - YTS92032720 
+START - YTS92032723 - [URGENT - UAT] (188Asia)[RLUU-2533][UAT][188A][Group tickets] - 08/18/22 (Thu) 
+[OK] Create YTS92032723 to JSM 
+[Success] Update YTS92032723 option to JSM 
+[Success] YTS92032723 - change to In Progress 
+[Success] YTS92032723 - change to Complete Request 
+[Success] YTS92032723 - change to Close Ticket 
+END - YTS92032723 
+START - YTS92032731 - Downtime Request for UAT Deployment (RTX) 19-August-2022 (Friday) 
+[OK] Create YTS92032731 to JSM 
+[Success] Update YTS92032731 option to JSM 
+[Success] YTS92032731 - change to In Progress 
+[Success] YTS92032731 - change to Complete Request 
+[Success] YTS92032731 - change to Close Ticket 
+END - YTS92032731 
+START - YTS92032741 - Downtime Request for UAT Deployment (SBK) 22-August-2022 (Monday) 
+[OK] Create YTS92032741 to JSM 
+[Success] Update YTS92032741 option to JSM 
+[Success] YTS92032741 - change to In Progress 
+[Success] YTS92032741 - change to Complete Request 
+[Success] YTS92032741 - change to Close Ticket 
+END - YTS92032741 
+START - YTS92032749 - [URGENT - PROD] (SBK)[RLPU-3725][Hotfix][PIM-25959] ARCH DB Data Patch  - 08/22/22 (Mon) 
+[OK] Create YTS92032749 to JSM 
+[Success] Update YTS92032749 option to JSM 
+[Success] YTS92032749 - change to In Progress 
+[Success] YTS92032749 - change to Complete Request 
+[Success] YTS92032749 - change to Close Ticket 
+END - YTS92032749 
+START - YTS92032751 - [URGENT - UAT] (188Asia)[RLUU-2535][UAT][188A][Group tickets] - 08/22/22 (Mon) 
+[OK] Create YTS92032751 to JSM 
+[Success] Update YTS92032751 option to JSM 
+[Success] YTS92032751 - change to In Progress 
+[Success] YTS92032751 - change to Complete Request 
+[Success] YTS92032751 - change to Close Ticket 
+END - YTS92032751 
+START - YTS92032754 - No Downtime Request for Production Deployment (188Asia) 23-August-2022 (Tuesday) 
+[OK] Create YTS92032754 to JSM 
+[Success] Update YTS92032754 option to JSM 
+[Success] YTS92032754 - change to In Progress 
+[Success] YTS92032754 - change to Complete Request 
+[Success] YTS92032754 - change to Close Ticket 
+END - YTS92032754 
+START - YTS92032759 - The rest process of CW188ARCH job for 202201 
+[OK] Create YTS92032759 to JSM 
+[Success] Update YTS92032759 option to JSM 
+[Success] YTS92032759 - change to In Progress 
+[Success] YTS92032759 - change to Complete Request 
+[Success] YTS92032759 - change to Close Ticket 
+END - YTS92032759 
+START - YTS92032762 - [URGENT - PROD] (SBK)[RLPU-3725][Hotfix][PIM-25959] ARCH DB Data Patch For LedgerDayBu 
+[OK] Create YTS92032762 to JSM 
+[Success] Update YTS92032762 option to JSM 
+[Success] YTS92032762 - change to In Progress 
+[Success] YTS92032762 - change to Complete Request 
+[Success] YTS92032762 - change to Close Ticket 
+END - YTS92032762 
+START - YTS92032765 - RE: URGENT - UAT] (SBK)[RLUU-2541][UAT Patch][SBK] RollBack CSB-638 - 08/23/22 (Tue) 
+[OK] Create YTS92032765 to JSM 
+[Success] Update YTS92032765 option to JSM 
+[Success] YTS92032765 - change to In Progress 
+[Success] YTS92032765 - change to Complete Request 
+[Success] YTS92032765 - change to Close Ticket 
+END - YTS92032765 
+START - YTS92032766 - No Downtime Request for Production Deployment (188Asia) 24-August-2022 (Wednesday) 
+[OK] Create YTS92032766 to JSM 
+[Success] Update YTS92032766 option to JSM 
+[Success] YTS92032766 - change to In Progress 
+[Success] YTS92032766 - change to Complete Request 
+[Success] YTS92032766 - change to Close Ticket 
+END - YTS92032766 
+START - YTS92032769 - Enable the job for deleting live sbk table's data (SBKWAGERITEM & SWTXNSBKEXTEND) 
+[OK] Create YTS92032769 to JSM 
+[Success] Update YTS92032769 option to JSM 
+[Success] YTS92032769 - change to In Progress 
+[Success] YTS92032769 - change to Complete Request 
+[Success] YTS92032769 - change to Close Ticket 
+END - YTS92032769 
+START - YTS92032770 - [URGENT - UAT] (188Asia)[RLUU-2543][UAT][188A][Group tickets] Unsettled Bets Data Patch Batch tickets - 08/23/22 (Tue) 
+[OK] Create YTS92032770 to JSM 
+[Success] Update YTS92032770 option to JSM 
+[Success] YTS92032770 - change to In Progress 
+[Success] YTS92032770 - change to Complete Request 
+[Success] YTS92032770 - change to Close Ticket 
+END - YTS92032770 
+START - YTS92032771 - No Downtime Request for Production Deployment (AgileDeal) 25-August-2022 (Thursday) 
+[OK] Create YTS92032771 to JSM 
+[Success] Update YTS92032771 option to JSM 
+[Success] YTS92032771 - change to In Progress 
+[Success] YTS92032771 - change to Complete Request 
+[Success] YTS92032771 - change to Close Ticket 
+END - YTS92032771 
+START - YTS92032775 - [PRD] Analyze WGR3ARCH's tables 
+[OK] Create YTS92032775 to JSM 
+[Success] Update YTS92032775 option to JSM 
+[Success] YTS92032775 - change to In Progress 
+[Success] YTS92032775 - change to Complete Request 
+[Success] YTS92032775 - change to Close Ticket 
+END - YTS92032775 
+START - YTS92032777 - No Downtime Request for UAT Deployment (NBG) 25-August-2022 (Thursday) 
+[OK] Create YTS92032777 to JSM 
+[Success] Update YTS92032777 option to JSM 
+[Success] YTS92032777 - change to In Progress 
+[Success] YTS92032777 - change to Complete Request 
+[Success] YTS92032777 - change to Close Ticket 
+END - YTS92032777 
+START - YTS92032778 - No Downtime Request for Production Deployment (188Asia) 25-August-2022 (Thursday) 
+[OK] Create YTS92032778 to JSM 
+[Success] Update YTS92032778 option to JSM 
+[Success] YTS92032778 - change to In Progress 
+[Success] YTS92032778 - change to Complete Request 
+[Success] YTS92032778 - change to Close Ticket 
+END - YTS92032778 
+START - YTS92032780 - [URGENT - PROD] (AgileSlots)[RLPU-3727][Hotfix][CAS] DB PFF SyncJob early release - 08/24/22 (Wed) 
+[OK] Create YTS92032780 to JSM 
+[Success] Update YTS92032780 option to JSM 
+[Success] YTS92032780 - change to In Progress 
+[Success] YTS92032780 - change to Complete Request 
+[Success] YTS92032780 - change to Close Ticket 
+END - YTS92032780 
+START - YTS92032782 - Downtime Request for UAT Deployment (188Asia) 25-August-2022 (Thursday) 
+[OK] Create YTS92032782 to JSM 
+[Success] Update YTS92032782 option to JSM 
+[Success] YTS92032782 - change to In Progress 
+[Success] YTS92032782 - change to Complete Request 
+[Success] YTS92032782 - change to Close Ticket 
+END - YTS92032782 
+START - YTS92032785 - Reset the flag for rerun the CASHWAGER188 ARCH JOB. 
+[OK] Create YTS92032785 to JSM 
+[Success] Update YTS92032785 option to JSM 
+[Success] YTS92032785 - change to In Progress 
+[Success] YTS92032785 - change to Complete Request 
+[Success] YTS92032785 - change to Close Ticket 
+END - YTS92032785 
+START - YTS92032788 - [URGENT - UAT] (SBK)[RLUU-2545][UAT Patch][SBK][DSA] Group PIM tickets - 08/25/22 (Thu) 
+[OK] Create YTS92032788 to JSM 
+[Success] Update YTS92032788 option to JSM 
+[Success] YTS92032788 - change to In Progress 
+[Success] YTS92032788 - change to Complete Request 
+[Success] YTS92032788 - change to Close Ticket 
+END - YTS92032788 
+START - YTS92032790 - [URGENT - UAT] (188Asia)[RLUU-2548][UAT][188A][Group tickets] - 08/25/22 (Thu) 
+[OK] Create YTS92032790 to JSM 
+[Success] Update YTS92032790 option to JSM 
+[Success] YTS92032790 - change to In Progress 
+[Success] YTS92032790 - change to Complete Request 
+[Success] YTS92032790 - change to Close Ticket 
+END - YTS92032790 
+START - YTS92032796 - [URGENT - UAT] (SBK)[RLUU-2549][UAT Patch][PIM-26020] 
+[OK] Create YTS92032796 to JSM 
+[Success] Update YTS92032796 option to JSM 
+[Success] YTS92032796 - change to In Progress 
+[Success] YTS92032796 - change to Complete Request 
+[Success] YTS92032796 - change to Close Ticket 
+END - YTS92032796 
+START - YTS92032797 - [URGENT - UAT] (SBK)[RLUU-2549][U][SBK][UAT Patch][PIM-26020] - 08/26/22 (Fri) 
+[OK] Create YTS92032797 to JSM 
+[Success] Update YTS92032797 option to JSM 
+[Success] YTS92032797 - change to In Progress 
+[Success] YTS92032797 - change to Complete Request 
+[Success] YTS92032797 - change to Close Ticket 
+END - YTS92032797 
+START - YTS92032798 - [URGENT - UAT] (SBK)[RLUU-2551][U][Hotfix][SBK][IDP-7688] add freebet columns in Archival copy job  - 08/26/22 (Fri) 
+[OK] Create YTS92032798 to JSM 
+[Success] Update YTS92032798 option to JSM 
+[Success] YTS92032798 - change to In Progress 
+[Success] YTS92032798 - change to Complete Request 
+[Success] YTS92032798 - change to Close Ticket 
+END - YTS92032798 
+START - YTS92032803 - [URGENT - UAT] (188Asia)[RLUU-2553][UAT][188A][Group tickets] - 08/26/22 (Fri) 
+[OK] Create YTS92032803 to JSM 
+[Success] Update YTS92032803 option to JSM 
+[Success] YTS92032803 - change to In Progress 
+[Success] YTS92032803 - change to Complete Request 
+[Success] YTS92032803 - change to Close Ticket 
+END - YTS92032803 
+START - YTS92032806 - No Downtime Request for Production Deployment (NBG) 30-August-2022 (Tuesday) 
+[OK] Create YTS92032806 to JSM 
+[Success] Update YTS92032806 option to JSM 
+[Success] YTS92032806 - change to In Progress 
+[Success] YTS92032806 - change to Complete Request 
+[Success] YTS92032806 - change to Close Ticket 
+END - YTS92032806 
+START - YTS92032807 - No Downtime Request for Production Deployment (SBK) 30-August-2022 (Tuesday) 
+[OK] Create YTS92032807 to JSM 
+[Success] Update YTS92032807 option to JSM 
+[Success] YTS92032807 - change to In Progress 
+[Success] YTS92032807 - change to Complete Request 
+[Success] YTS92032807 - change to Close Ticket 
+END - YTS92032807 
+START - YTS92029328 - [URGENT - UAT and PROD] (NBG)[RLPU-3276][CRDT-3670][NBG-GC] Super Lottery Temporary Hide Bet type - 08/12/21 (Thu) 
+[OK] Create YTS92029328 to JSM 
+[Success] Update YTS92029328 option to JSM 
+[Success] YTS92029328 - change to In Progress 
+[Success] YTS92029328 - change to Complete Request 
+[Success] YTS92029328 - change to Close Ticket 
+END - YTS92029328 
+START - YTS92032837 - No Downtime Request for Production Deployment (188Asia) 30-August-2022 (Tuesday) 
+[OK] Create YTS92032837 to JSM 
+[Success] Update YTS92032837 option to JSM 
+[Success] YTS92032837 - change to In Progress 
+[Success] YTS92032837 - change to Complete Request 
+[Success] YTS92032837 - change to Close Ticket 
+END - YTS92032837 
+START - YTS92032846 - [P][Hotfix][RLPU- 3729][SBK][GMM] Patch all Competition and Events to Turn OFF the "Bet Builder" Event flag (PROD only) 
+[OK] Create YTS92032846 to JSM 
+[Success] Update YTS92032846 option to JSM 
+[Success] YTS92032846 - change to In Progress 
+[Success] YTS92032846 - change to Complete Request 
+[Success] YTS92032846 - change to Close Ticket 
+END - YTS92032846 
+START - YTS92032848 - [URGENT - UAT][RLUU-2556][Hotfix] [IDP-7708] [RTX] Missing Index 
+[OK] Create YTS92032848 to JSM 
+[Success] Update YTS92032848 option to JSM 
+[Success] YTS92032848 - change to In Progress 
+[Success] YTS92032848 - change to Complete Request 
+[Success] YTS92032848 - change to Close Ticket 
+END - YTS92032848 
+START - YTS92032851 - [URGENT - UAT] (188Asia)[RLUU-2557][UAT][188A][Group tickets] Unsettled Bets Data Patch Batch tickets - 08/30/22 (Tue) 
+[OK] Create YTS92032851 to JSM 
+[Success] Update YTS92032851 option to JSM 
+[Success] YTS92032851 - change to In Progress 
+[Success] YTS92032851 - change to Complete Request 
+[Success] YTS92032851 - change to Close Ticket 
+END - YTS92032851 
+START - YTS92032853 - No Downtime Request for Production Deployment (188Asia) 31-August-2022 (Wednesday) 
+[OK] Create YTS92032853 to JSM 
+[Success] Update YTS92032853 option to JSM 
+[Success] YTS92032853 - change to In Progress 
+[Success] YTS92032853 - change to Complete Request 
+[Success] YTS92032853 - change to Close Ticket 
+END - YTS92032853 
+START - YTS92032855 - Downtime Request for Production Deployment (RTX) 31-August-2022 (Wednesday) 
+[OK] Create YTS92032855 to JSM 
+[Success] Update YTS92032855 option to JSM 
+[Success] YTS92032855 - change to In Progress 
+[Success] YTS92032855 - change to Complete Request 
+[Success] YTS92032855 - change to Close Ticket 
+END - YTS92032855 
+START - YTS92032864 - [URGENT - UAT] (188Asia)[RLUU-2558][UAT][188A][Group tickets] - 08/31/22 (Wed) 
+[OK] Create YTS92032864 to JSM 
+[Success] Update YTS92032864 option to JSM 
+[Success] YTS92032864 - change to In Progress 
+[Success] YTS92032864 - change to Complete Request 
+[Success] YTS92032864 - change to Close Ticket 
+END - YTS92032864 
